@@ -807,7 +807,6 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 1985,Small Pickup Trucks,21,4.0,2.5,Rear-Wheel Drive,Automatic
 1985,Midsize Cars,19,4.0,2.2,Front-Wheel Drive,Automatic
 1985,Standard Pickup Trucks,16,6.0,4.3,Rear-Wheel Drive,Automatic
-1985,Two Seaters,17,2.0,1.1,Rear-Wheel Drive,Automatic
 1985,Midsize-Large Station Wagons,20,4.0,2.3,Rear-Wheel Drive,Automatic
 1985,Midsize Cars,16,8.0,5.2,Rear-Wheel Drive,Automatic
 1985,Midsize-Large Station Wagons,17,4.0,2.1,Rear-Wheel Drive,Manual
@@ -979,7 +978,6 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 1985,Midsize Cars,18,6.0,3.0,Front-Wheel Drive,Automatic
 1985,Subcompact Cars,21,4.0,2.2,Front-Wheel Drive,Automatic
 1985,Midsize Cars,19,4.0,2.2,Front-Wheel Drive,Automatic
-1985,Two Seaters,17,2.0,1.1,Rear-Wheel Drive,Manual
 1985,Midsize-Large Station Wagons,25,4.0,2.2,Front-Wheel Drive,Manual
 1985,Midsize Cars,21,4.0,2.2,Front-Wheel Drive,Automatic
 1985,Midsize-Large Station Wagons,25,4.0,2.2,Front-Wheel Drive,Manual
@@ -1622,7 +1620,6 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 1985,Vans,17,6.0,4.3,Rear-Wheel Drive,Automatic
 1985,Vans,12,8.0,5.0,Rear-Wheel Drive,Automatic
 1985,Subcompact Cars,17,8.0,5.0,Rear-Wheel Drive,Automatic
-1985,Two Seaters,17,2.0,1.1,Rear-Wheel Drive,Automatic
 1985,Vans,16,6.0,4.3,Rear-Wheel Drive,Manual
 1985,Vans,14,8.0,5.0,Rear-Wheel Drive,Automatic
 1985,Vans,15,6.0,4.3,Rear-Wheel Drive,Manual
@@ -1697,7 +1694,6 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 1985,Vans,11,8.0,5.8,Rear-Wheel Drive,Automatic
 1985,Subcompact Cars,18,4.0,2.6,Rear-Wheel Drive,Manual
 1985,Subcompact Cars,22,4.0,2.4,Rear-Wheel Drive,Automatic
-1985,Two Seaters,17,2.0,1.3,Rear-Wheel Drive,Manual
 1985,Vans,16,6.0,4.3,Rear-Wheel Drive,Automatic
 1985,Subcompact Cars,25,4.0,1.8,Front-Wheel Drive,Manual
 1985,Vans,17,6.0,4.3,Rear-Wheel Drive,Automatic
@@ -1722,7 +1718,6 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 1985,Vans,16,4.0,1.9,Rear-Wheel Drive,Automatic
 1985,Subcompact Cars,27,4.0,1.5,Front-Wheel Drive,Automatic
 1985,Vans,15,6.0,4.3,Rear-Wheel Drive,Manual
-1985,Two Seaters,17,2.0,1.1,Rear-Wheel Drive,Manual
 1985,Vans,21,4.0,2.0,Rear-Wheel Drive,Manual
 1985,Vans,20,4.0,2.5,Rear-Wheel Drive,Automatic
 1985,Vans,20,4.0,2.0,Rear-Wheel Drive,Automatic
@@ -2369,7 +2364,6 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 1986,Minicompact Cars,40,3.0,1.0,Front-Wheel Drive,Manual
 1986,Minicompact Cars,13,8.0,3.2,Rear-Wheel Drive,Manual
 1986,Minicompact Cars,13,6.0,2.5,Rear-Wheel Drive,Automatic
-1986,Minicompact Cars,18,2.0,1.3,Rear-Wheel Drive,Automatic
 1986,Minicompact Cars,35,3.0,1.0,Front-Wheel Drive,Automatic
 1986,Vans,17,6.0,2.8,Rear-Wheel Drive,Automatic
 1986,Subcompact Cars,24,4.0,1.6,Front-Wheel Drive,Manual
@@ -3431,9 +3425,6 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 1987,Two Seaters,25,4.0,2.5,Rear-Wheel Drive,Manual
 1987,Two Seaters,24,4.0,2.5,Rear-Wheel Drive,Automatic
 1987,Two Seaters,14,8.0,5.6,Rear-Wheel Drive,Automatic
-1987,Two Seaters,17,2.0,1.3,Rear-Wheel Drive,Manual
-1987,Two Seaters,18,2.0,1.3,Rear-Wheel Drive,Manual
-1987,Two Seaters,17,2.0,1.3,Rear-Wheel Drive,Automatic
 1987,Two Seaters,18,6.0,2.8,Rear-Wheel Drive,Automatic
 1987,Two Seaters,14,6.0,2.5,Rear-Wheel Drive,Manual
 1987,Two Seaters,19,4.0,2.2,Rear-Wheel Drive,Manual
@@ -4449,9 +4440,6 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 1988,Subcompact Cars,22,4.0,1.6,Front-Wheel Drive,Automatic
 1988,Two Seaters,18,4.0,2.2,Rear-Wheel Drive,Manual
 1988,Two Seaters,19,4.0,2.2,Front-Wheel Drive,Automatic
-1988,Two Seaters,17,2.0,1.3,Rear-Wheel Drive,Automatic
-1988,Two Seaters,17,2.0,1.3,Rear-Wheel Drive,Manual
-1988,Two Seaters,18,2.0,1.3,Rear-Wheel Drive,Manual
 1988,Two Seaters,14,8.0,5.6,Rear-Wheel Drive,Automatic
 1988,Two Seaters,20,4.0,2.3,Rear-Wheel Drive,Automatic
 1988,Two Seaters,20,4.0,2.3,Rear-Wheel Drive,Manual
@@ -5542,10 +5530,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 1989,Two Seaters,24,4.0,1.6,Rear-Wheel Drive,Automatic
 1989,Two Seaters,23,4.0,1.8,Front-Wheel Drive,Manual
 1989,Two Seaters,14,8.0,5.6,Rear-Wheel Drive,Automatic
-1989,Two Seaters,17,2.0,1.3,Rear-Wheel Drive,Manual
-1989,Two Seaters,18,2.0,1.3,Rear-Wheel Drive,Manual
 1989,Two Seaters,23,4.0,1.6,Rear-Wheel Drive,Manual
-1989,Two Seaters,17,2.0,1.3,Rear-Wheel Drive,Automatic
 1989,Minicompact Cars,15,8.0,5.0,Rear-Wheel Drive,Automatic
 1989,Minicompact Cars,14,8.0,5.0,Rear-Wheel Drive,Manual
 1989,Subcompact Cars,18,6.0,3.0,Rear-Wheel Drive,Manual
@@ -6600,15 +6585,12 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 1990,Two Seaters,18,8.0,5.7,Rear-Wheel Drive,Manual
 1990,Two Seaters,15,6.0,2.8,Rear-Wheel Drive,Automatic
 1990,Two Seaters,15,6.0,2.8,Rear-Wheel Drive,Manual
-1990,Two Seaters,17,2.0,1.3,Rear-Wheel Drive,Automatic
 1990,Two Seaters,15,6.0,2.8,Rear-Wheel Drive,Manual
-1990,Two Seaters,18,2.0,1.3,Rear-Wheel Drive,Manual
 1990,Two Seaters,23,4.0,1.6,Rear-Wheel Drive,Automatic
 1990,Two Seaters,24,4.0,1.6,Rear-Wheel Drive,Manual
 1990,Two Seaters,17,6.0,3.0,Rear-Wheel Drive,Automatic
 1990,Two Seaters,16,6.0,3.0,Rear-Wheel Drive,Manual
 1990,Two Seaters,14,8.0,5.0,Rear-Wheel Drive,Automatic
-1990,Two Seaters,17,2.0,1.3,Rear-Wheel Drive,Manual
 1990,Two Seaters,14,6.0,2.8,Rear-Wheel Drive,Automatic
 1990,Two Seaters,19,4.0,2.2,Rear-Wheel Drive,Manual
 1990,Two Seaters,10,12.0,5.7,Rear-Wheel Drive,Manual
@@ -7673,7 +7655,6 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 1991,Minicompact Cars,21,4.0,2.4,Rear-Wheel Drive,Automatic
 1991,Subcompact Cars,26,4.0,1.6,Front-Wheel Drive,Manual
 1991,Subcompact Cars,19,6.0,2.7,4-Wheel Drive,Automatic
-1991,Two Seaters,18,2.0,1.3,Rear-Wheel Drive,Manual
 1991,Subcompact Cars,18,6.0,3.0,Rear-Wheel Drive,Automatic
 1991,Two Seaters,16,6.0,3.2,Rear-Wheel Drive,Manual
 1991,Subcompact Cars,18,8.0,5.0,Rear-Wheel Drive,Manual
@@ -7684,7 +7665,6 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 1991,Subcompact Cars,20,6.0,3.1,Front-Wheel Drive,Manual
 1991,Subcompact Cars,18,8.0,5.0,Rear-Wheel Drive,Manual
 1991,Subcompact Cars,17,8.0,5.7,Rear-Wheel Drive,Automatic
-1991,Two Seaters,17,2.0,1.3,Rear-Wheel Drive,Manual
 1991,Subcompact Cars,20,6.0,3.1,Front-Wheel Drive,Automatic
 1991,Small Station Wagons,22,4.0,2.0,Front-Wheel Drive,Manual
 1991,Minicompact Cars,16,6.0,3.6,4-Wheel Drive,Manual
@@ -7704,7 +7684,6 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 1991,Small Station Wagons,25,4.0,1.9,Front-Wheel Drive,Automatic
 1991,Subcompact Cars,22,4.0,2.2,Front-Wheel Drive,Automatic
 1991,Subcompact Cars,23,4.0,2.2,Front-Wheel Drive,Automatic
-1991,Two Seaters,17,2.0,1.3,Rear-Wheel Drive,Automatic
 1991,Subcompact Cars,20,6.0,3.1,Front-Wheel Drive,Automatic
 1991,Subcompact Cars,22,4.0,2.2,Front-Wheel Drive,Manual
 1991,Two Seaters,14,6.0,2.8,Rear-Wheel Drive,Manual
@@ -8402,8 +8381,6 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 1992,Two Seaters,19,4.0,2.2,Rear-Wheel Drive,Manual
 1992,Two Seaters,23,4.0,1.6,Rear-Wheel Drive,Automatic
 1992,Two Seaters,24,4.0,1.6,Rear-Wheel Drive,Manual
-1992,Two Seaters,17,2.0,1.3,Rear-Wheel Drive,Automatic
-1992,Two Seaters,18,2.0,1.3,Rear-Wheel Drive,Manual
 1992,Two Seaters,17,6.0,3.0,Rear-Wheel Drive,Automatic
 1992,Two Seaters,13,8.0,2.9,Rear-Wheel Drive,Manual
 1992,Two Seaters,17,6.0,3.0,Rear-Wheel Drive,Manual
@@ -9082,8 +9059,6 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 1993,Two Seaters,17,6.0,3.6,Rear-Wheel Drive,Automatic
 1993,Two Seaters,16,6.0,3.6,4-Wheel Drive,Manual
 1993,Two Seaters,18,6.0,3.6,Rear-Wheel Drive,Manual
-1993,Two Seaters,18,2.0,1.3,Rear-Wheel Drive,Manual
-1993,Two Seaters,18,2.0,1.3,Rear-Wheel Drive,Automatic
 1993,Two Seaters,24,4.0,1.6,Rear-Wheel Drive,Manual
 1993,Two Seaters,23,4.0,1.6,Rear-Wheel Drive,Automatic
 1993,Two Seaters,19,4.0,2.2,Rear-Wheel Drive,Manual
@@ -10091,7 +10066,6 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 1994,Two Seaters,22,4.0,1.8,Rear-Wheel Drive,Automatic
 1994,Two Seaters,15,10.0,8.0,Rear-Wheel Drive,Manual
 1994,Two Seaters,21,4.0,1.8,Rear-Wheel Drive,Manual
-1994,Two Seaters,18,2.0,1.3,Rear-Wheel Drive,Manual
 1994,Two Seaters,18,6.0,3.2,Rear-Wheel Drive,Automatic
 1994,Two Seaters,16,8.0,5.0,Rear-Wheel Drive,Automatic
 1994,Two Seaters,13,12.0,6.0,Rear-Wheel Drive,Automatic
@@ -10102,7 +10076,6 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 1994,Two Seaters,18,4.0,3.0,Rear-Wheel Drive,Manual
 1994,Two Seaters,20,4.0,2.0,Rear-Wheel Drive,Manual
 1994,Two Seaters,22,4.0,2.2,Rear-Wheel Drive,Automatic
-1994,Two Seaters,18,2.0,1.3,Rear-Wheel Drive,Automatic
 1994,Two Seaters,22,4.0,2.2,Rear-Wheel Drive,Manual
 1994,Two Seaters,18,6.0,3.0,Rear-Wheel Drive,Manual
 1994,Two Seaters,18,6.0,3.0,Rear-Wheel Drive,Automatic
@@ -10963,8 +10936,6 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 1995,Two Seaters,19,4.0,2.2,Rear-Wheel Drive,Manual
 1995,Two Seaters,22,4.0,1.8,Rear-Wheel Drive,Automatic
 1995,Two Seaters,23,4.0,1.8,Rear-Wheel Drive,Manual
-1995,Two Seaters,18,2.0,1.3,Rear-Wheel Drive,Automatic
-1995,Two Seaters,18,2.0,1.3,Rear-Wheel Drive,Manual
 1995,Two Seaters,18,6.0,3.2,Rear-Wheel Drive,Automatic
 1995,Two Seaters,16,8.0,5.0,Rear-Wheel Drive,Automatic
 1995,Two Seaters,13,12.0,6.0,Rear-Wheel Drive,Automatic
@@ -18352,8 +18323,6 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2004,Subcompact Cars,17,8.0,4.2,Rear-Wheel Drive,Automatic
 2004,Subcompact Cars,12,8.0,4.2,Rear-Wheel Drive,Manual
 2004,Subcompact Cars,12,8.0,4.2,Rear-Wheel Drive,Automatic
-2004,Subcompact Cars,18,2.0,1.3,Rear-Wheel Drive,Manual
-2004,Subcompact Cars,18,2.0,1.3,Rear-Wheel Drive,Automatic
 2004,Subcompact Cars,20,6.0,3.2,Rear-Wheel Drive,Automatic
 2004,Subcompact Cars,20,6.0,3.2,Rear-Wheel Drive,Automatic
 2004,Subcompact Cars,17,8.0,5.0,Rear-Wheel Drive,Automatic
@@ -19089,8 +19058,6 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2005,Subcompact Cars,17,8.0,4.2,Rear-Wheel Drive,Automatic
 2005,Subcompact Cars,12,8.0,4.2,Rear-Wheel Drive,Manual
 2005,Subcompact Cars,12,8.0,4.2,Rear-Wheel Drive,Automatic
-2005,Subcompact Cars,18,2.0,1.3,Rear-Wheel Drive,Manual
-2005,Subcompact Cars,18,2.0,1.3,Rear-Wheel Drive,Automatic
 2005,Subcompact Cars,21,6.0,3.2,Rear-Wheel Drive,Automatic
 2005,Subcompact Cars,20,6.0,3.2,Rear-Wheel Drive,Automatic
 2005,Subcompact Cars,18,8.0,5.0,Rear-Wheel Drive,Automatic
@@ -20190,8 +20157,6 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2006,Subcompact Cars,21,6.0,3.5,Rear-Wheel Drive,Automatic
 2006,Subcompact Cars,13,8.0,4.2,Rear-Wheel Drive,Automatic
 2006,Subcompact Cars,14,8.0,4.2,Rear-Wheel Drive,Manual
-2006,Subcompact Cars,18,2.0,1.3,Rear-Wheel Drive,Manual
-2006,Subcompact Cars,19,2.0,1.3,Rear-Wheel Drive,Automatic
 2006,Subcompact Cars,20,6.0,3.5,Rear-Wheel Drive,Automatic
 2006,Subcompact Cars,19,6.0,3.5,Rear-Wheel Drive,Automatic
 2006,Subcompact Cars,18,8.0,5.0,Rear-Wheel Drive,Automatic
@@ -21097,8 +21062,6 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2007,Subcompact Cars,18,8.0,4.6,Rear-Wheel Drive,Automatic
 2007,Subcompact Cars,14,8.0,6.2,Rear-Wheel Drive,Automatic
 2007,Subcompact Cars,18,8.0,4.6,Rear-Wheel Drive,Manual
-2007,Subcompact Cars,18,2.0,1.3,Rear-Wheel Drive,Manual
-2007,Subcompact Cars,19,2.0,1.3,Rear-Wheel Drive,Automatic
 2007,Minicompact Cars,22,4.0,2.4,Front-Wheel Drive,Automatic
 2007,Subcompact Cars,20,6.0,3.5,Rear-Wheel Drive,Automatic
 2007,Subcompact Cars,20,6.0,3.5,Rear-Wheel Drive,Automatic
@@ -22717,8 +22680,6 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2008,Subcompact Cars,20,6.0,4.0,Rear-Wheel Drive,Manual
 2008,Subcompact Cars,18,8.0,4.6,Rear-Wheel Drive,Automatic
 2008,Subcompact Cars,16,8.0,5.4,Rear-Wheel Drive,Manual
-2008,Subcompact Cars,18,2.0,1.3,Rear-Wheel Drive,Manual
-2008,Subcompact Cars,19,2.0,1.3,Rear-Wheel Drive,Automatic
 2008,Minicompact Cars,29,4.0,1.6,Front-Wheel Drive,Manual
 2008,Subcompact Cars,20,6.0,3.5,Rear-Wheel Drive,Automatic
 2008,Subcompact Cars,20,6.0,3.5,Rear-Wheel Drive,Automatic
@@ -23764,8 +23725,6 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2009,Subcompact Cars,23,5.0,2.5,Front-Wheel Drive,Manual
 2009,Compact Cars,24,5.0,2.5,Front-Wheel Drive,Manual
 2009,Subcompact Cars,28,4.0,1.6,Front-Wheel Drive,Automatic
-2009,Subcompact Cars,18,2.0,1.3,Rear-Wheel Drive,Manual
-2009,Subcompact Cars,19,2.0,1.3,Rear-Wheel Drive,Automatic
 2009,Subcompact Cars,19,6.0,3.8,Front-Wheel Drive,Manual
 2009,Midsize Cars,25,4.0,2.4,Front-Wheel Drive,Manual
 2009,Small Station Wagons,21,6.0,3.2,4-Wheel Drive,Automatic
@@ -24185,8 +24144,6 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2010,Subcompact Cars,29,4.0,2.2,Front-Wheel Drive,Manual
 2010,Subcompact Cars,25,4.0,2.0,Front-Wheel Drive,Manual
 2010,Subcompact Cars,30,4.0,2.2,Front-Wheel Drive,Manual
-2010,Subcompact Cars,18,2.0,1.3,Rear-Wheel Drive,Manual
-2010,Subcompact Cars,19,2.0,1.3,Rear-Wheel Drive,Automatic
 2010,Subcompact Cars,19,6.0,3.8,Front-Wheel Drive,Manual
 2010,Compact Cars,25,4.0,2.0,Front-Wheel Drive,Manual
 2010,Subcompact Cars,23,4.0,2.4,Front-Wheel Drive,Manual
@@ -24951,7 +24908,6 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2011,Subcompact Cars,15,8.0,4.2,Rear-Wheel Drive,Automatic
 2011,Subcompact Cars,15,8.0,4.7,Rear-Wheel Drive,Automatic
 2011,Subcompact Cars,15,8.0,4.7,Rear-Wheel Drive,Automatic
-2011,Subcompact Cars,18,2.0,1.3,Rear-Wheel Drive,Manual
 2011,Subcompact Cars,29,4.0,1.8,Front-Wheel Drive,Automatic
 2011,Sport Utility Vehicle,21,4.0,2.0,4-Wheel Drive,Automatic
 2011,Sport Utility Vehicle,20,6.0,3.2,4-Wheel Drive,Automatic
@@ -24981,7 +24937,6 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2011,Sport Utility Vehicle,19,6.0,3.0,4-Wheel Drive,Automatic
 2011,Sport Utility Vehicle,16,8.0,4.4,4-Wheel Drive,Automatic
 2011,Sport Utility Vehicle,18,6.0,3.2,4-Wheel Drive,Automatic
-2011,Subcompact Cars,19,2.0,1.3,Rear-Wheel Drive,Automatic
 2011,Subcompact Cars,30,4.0,1.6,Front-Wheel Drive,Automatic
 2011,Subcompact Cars,30,4.0,1.6,Front-Wheel Drive,Manual
 2011,Subcompact Cars,28,4.0,1.6,Front-Wheel Drive,Automatic
