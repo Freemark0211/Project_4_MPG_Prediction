@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>D3.js MPG Predictor</title>
+    <!-- Include D3.js and other necessary scripts and stylesheets -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+    <h1>MPG Predictor</h1>
+    <div id="dropdowns">
+        <!-- Dropdowns for selecting variables -->
+        <select id="Year">
+            <option value="year_option1">Year Option 1</option>
+            <option value="year_option2">Year Option 2</option>
+            <!-- Add more options for the Year variable -->
+        </select>
+        <select id="Vehicle_class">
+            <option value="class_option1">Class Option 1</option>
+            <option value="class_option2">Class Option 2</option>
+            <!-- Add more options for the Vehicle Class variable -->
+        </select>
+        <select id="Cylinders">
+            <option value="cylinders_option1">Cylinders Option 1</option>
+            <option value="cylinders_option2">Cylinders Option 2</option>
+            <!-- Add more options for the Cylinders variable -->
+        </select>
+        <select id="Drive">
+            <option value="drive_option1">Drive Option 1</option>
+            <option value="drive_option2">Drive Option 2</option>
+            <!-- Add more options for the Drive variable -->
+        </select>
+        <select id="Trany">
+            <option value="trany_option1">Trany Option 1</option>
+            <option value="trany_option2">Trany Option 2</option>
+            <!-- Add more options for the Trany variable -->
+        </select>
+        <button id="predict-button">Predict MPG</button>
+    </div>
+    <div id="result">
+        <!-- Display MPG prediction result here -->
+    </div>
+    
+    <!-- D3.js code below -->
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const predictButton = document.getElementById('predict-button');
+            predictButton.addEventListener('click', () => {
+                // Get selected values from dropdowns
+                const Year = document.getElementById('Year').value;
+                const VehicleClass = document.getElementById('Vehicle_class').value;
+                const Cylinders = document.getElementById('Cylinders').value;
+                const Drive = document.getElementById('Drive').value;
+                const Trany = document.getElementById('Trany').value;
+
+                // Create an object to send to the server
+                const inputData = {
+                    Year,
+                    VehicleClass,
+                    Cylinders,
+                    Drive,
+                    Trany,
+                };
+
+                // Send a request to your backend server
+                fetch('/predict', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(inputData),
+                })
+                .then(response => response.json())
+                .then(result => {
+                    // Use D3.js to update the content of the "result" div with the predicted MPG
+                    d3.select('#result')
+                        .html(`<p>Predicted MPG: ${result.mpg}</p>`);
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                });
+            });
+        });
+    </script>
+</body>
+</html>
+
+
