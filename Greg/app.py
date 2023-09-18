@@ -3,11 +3,12 @@ from flask import Flask, request, jsonify, render_template
 import pickle
 import pandas as pd
 from flask_cors import CORS, cross_origin
+from sklearn.preprocessing import PolynomialFeatures
 
 app = Flask(__name__)
 
 #Importing our linear model and standard scaler
-lm = pickle.load(open('model.pkl', 'rb'))
+pm = pickle.load(open('model.pkl', 'rb'))
 sm = pickle.load(open('scaler.pkl','rb'))
 cors = CORS(app)
 app.config['CORS_HEADERS'] = 'Content-Type'
@@ -29,7 +30,7 @@ def predict():
 
     encode_class = {'Compact Car': [0,0,0,0,0,0,0,0,0,0,0,0],
                 'Large Car': [1,0,0,0,0,0,0,0,0,0,0,0],
-               'Midsize Car': [0,1,0,0,0,0,0,1,0,0,0,0],
+               'Midsize Car': [0,1,0,0,0,0,0,0,0,0,0,0],
                'Midsize-Large Station Wagon': [0,0,1,0,0,0,0,0,0,0,0,0],
                'Minicompact Car': [0,0,0,1,0,0,0,0,0,0,0,0],
                'Minivan': [0,0,0,0,1,0,0,0,0,0,0,0],
@@ -68,7 +69,7 @@ def predict():
 
     #Predictin the MPG with the new input features
 
-    pred_y_new = lm.predict(car)
+    pred_y_new = pm.predict(car)
 
     output = round(pred_y_new[0],2)
 
