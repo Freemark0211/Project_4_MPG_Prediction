@@ -25,7 +25,11 @@ The following steps were taken to format our data and constuct and test our mode
     c. Format the vector
     d. Generate new prediction
 
+NOTE: We have encountered instances where the jupyter notebook performs the regression on the testing dataset incorrectly if the kernel option "Restart & Run All" is used. This does not appear to be consistent behavior, and if the notebook is run line-by-line, the error does not appear to occur. 
+
 Model Performance:
+
+We achieved an R^2 socre of 0.88 when both training and generating predcitions with our model. Other performance metrics and residual analysis can be seen in the .pptx file in the main repo directory. 
 
 Model Deployment with Flask API:
 
