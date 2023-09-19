@@ -106,4 +106,5 @@ Greg
 ## Resources
 
 1.) https://bootcampspot.instructure.com/courses/3281/modules
+2.) .html and .css templates can be found at https://fonts.googleapis.com/
 
