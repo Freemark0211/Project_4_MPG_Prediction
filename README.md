@@ -16,13 +16,40 @@ This project is to model and predict MPG (miles per gallon) using know vehicle s
 
 ## ETL
 
+- Downloaded CSV file from EPA website https://www.fueleconomy.gov/feg/epadata/vehicles.csv
+  This website is the official government source for fuel economy information
+
+- Original CSV contained data for nearly every vehicle sold in the US from 1984 to 2023. 
+  84 columns x 46,000+ rows
+
+- After inspection of data and testing through modeling it was eventually filtered down to seven
+  columns of data:
+	- Year, Cylinders, Displacement, Vehicle Class, Trransmission, Drive, and MPG
+	- through years 2000 to 2023
+
+### Process:
+	- After initial inspection all vehicles not powered by gasoline were removed and rows reduced
+	  to the seven for modeling and visualization purposes
+
+	- using feedback from initial visualization and modeling:
+		- hybrid vehicles were removed:
+			- it was decided combination electric/gas drivetrain did not fit with our
+			   modeling
+		- two-cylinder vehicles were removed:
+			- These were primarily rotary engine vehicles and not actually 'cylinders'
+		- special puropse vehicle classes were removed
+			- encompassed all vehicle classes so did not work for modeling purooses
+		- years covered were reduced to 2000 to 2023
+			- the earlier years had many more outliers; possibly due to electronic
+			  fuel and engine processing that became nearly standard in the late 1990s
+			  so it was decided to elimnate pre-2000 vehicles from the model
 
 
-
+## Visualization
 
 Web Link to Tableau Presentation: https://public.tableau.com/app/profile/albert.dudek/viz/Project_4_MPG_Prediction/MPGbyYear?publish=yes
 
-Predictive Model:
+## Predictive Model:
 
 The code for constructing and testing our predcitive model can be found in the file "Reg_model_poly.ipynb". The model is a polynomial regression using the sklearn function PolynomialFeatures, which transforms the input variables into a polynomial function of highest order n (we used n=3) including interaction terms. 
 
@@ -61,3 +88,22 @@ The model was implemented using a Flask API, which routes to an HTML document th
     b. The files "model.pkl" and "scaler.pkl" should also be int he main directory. These files apply the StandardScaler and regression pipelines to the input data, respectively.
 3. Navigate to the http://127.0.0.1:5000/ url in a web browser to display the dashboard
 4. Enter the vehicle specifications and click the "Predict car's MPG" button. The estimated gas mileage will appear below the button.
+
+
+## Collaborators:
+
+Kevin M.
+
+Albert D.
+
+Ryan F.
+
+Greg
+
+## Data Source
+	https://www.fueleconomy.gov/feg/ws/#ympgVehicle
+
+## Resources
+
+1.) https://bootcampspot.instructure.com/courses/3281/modules
+
