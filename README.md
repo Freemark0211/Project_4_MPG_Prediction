@@ -49,6 +49,13 @@ This project is to model and predict MPG (miles per gallon) using know vehicle s
 
 Web Link to Tableau Presentation: https://public.tableau.com/app/profile/albert.dudek/viz/Project_4_MPG_Prediction/MPGbyYear?publish=yes
 
+Some take-aways from the visualizations:
+- 50% of vehicles fall between 17 and 23 MPG.
+- Smaller vehicle types have a broader range of MPG compared to larger vehicle types, making them less predictable.
+- Front-Wheel Drives have a greater MPG compared to Rear and Four-Wheel Drive.
+- Generally, fewer cylinders the greater the MPG. Similar to L(displacement), less displacement has greater MPG.
+- Year and MPG does not have a significant trend apart from a broader range in MPG from 2013-2023. 
+
 ## Predictive Model:
 
 The code for constructing and testing our predcitive model can be found in the file "Reg_model_poly.ipynb". The model is a polynomial regression using the sklearn function PolynomialFeatures, which transforms the input variables into a polynomial function of highest order n (we used n=3) including interaction terms. 
