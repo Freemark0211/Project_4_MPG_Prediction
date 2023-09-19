@@ -25073,6 +25073,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2011,Small Station Wagons,14,8.0,6.2,Rear-Wheel Drive,Automatic
 2011,Compact Cars,21,6.0,3.6,Rear-Wheel Drive,Automatic
 2011,Compact Cars,18,8.0,5.7,Rear-Wheel Drive,Manual
+2011,Compact Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
 2011,Compact Cars,17,8.0,6.4,Rear-Wheel Drive,Manual
 2011,Compact Cars,16,8.0,6.4,Rear-Wheel Drive,Automatic
 2011,Compact Cars,28,4.0,2.0,Front-Wheel Drive,Automatic
@@ -25090,7 +25091,9 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2011,Midsize Cars,23,4.0,2.4,Front-Wheel Drive,Automatic
 2011,Midsize Cars,32,4.0,1.8,Front-Wheel Drive,Automatic
 2011,Midsize Cars,32,4.0,1.8,Front-Wheel Drive,Manual
+2011,Large Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
 2011,Large Cars,18,8.0,5.7,4-Wheel Drive,Automatic
+2011,Large Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
 2011,Large Cars,18,8.0,5.7,4-Wheel Drive,Automatic
 2011,Small Station Wagons,16,8.0,6.2,Rear-Wheel Drive,Manual
 2011,Large Cars,18,8.0,5.5,Rear-Wheel Drive,Automatic
@@ -25600,7 +25603,9 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2011,Standard Pickup Trucks,17,6.0,3.7,Rear-Wheel Drive,Automatic
 2011,Minicompact Cars,22,6.0,3.6,Rear-Wheel Drive,Automatic
 2011,Standard Pickup Trucks,16,6.0,3.7,Rear-Wheel Drive,Automatic
+2011,Standard Pickup Trucks,16,8.0,5.7,Rear-Wheel Drive,Automatic
 2011,Standard Pickup Trucks,15,6.0,3.7,4-Wheel Drive,Automatic
+2011,Standard Pickup Trucks,15,8.0,5.7,4-Wheel Drive,Automatic
 2011,Standard Pickup Trucks,17,6.0,3.5,4-Wheel Drive,Automatic
 2011,Sport Utility Vehicle,18,6.0,3.7,Rear-Wheel Drive,Automatic
 2011,Sport Utility Vehicle,18,6.0,3.7,Rear-Wheel Drive,Automatic
@@ -25814,6 +25819,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2012,Sport Utility Vehicle,24,4.0,2.4,4-Wheel Drive,Manual
 2012,Sport Utility Vehicle,16,8.0,5.6,Rear-Wheel Drive,Automatic
 2012,Small Station Wagons,27,4.0,1.6,Front-Wheel Drive,Manual
+2012,Sport Utility Vehicle,16,8.0,5.7,Rear-Wheel Drive,Automatic
 2012,Sport Utility Vehicle,25,4.0,2.0,Front-Wheel Drive,Manual
 2012,Sport Utility Vehicle,23,4.0,2.4,Front-Wheel Drive,Automatic
 2012,Sport Utility Vehicle,23,4.0,2.4,Front-Wheel Drive,Automatic
@@ -25844,6 +25850,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2012,Midsize Cars,23,4.0,2.4,Front-Wheel Drive,Automatic
 2012,Midsize Cars,21,6.0,3.6,Rear-Wheel Drive,Automatic
 2012,Midsize Cars,18,8.0,5.7,Rear-Wheel Drive,Manual
+2012,Midsize Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
 2012,Midsize Cars,17,8.0,6.4,Rear-Wheel Drive,Automatic
 2012,Midsize Cars,17,8.0,5.0,Rear-Wheel Drive,Automatic
 2012,Midsize Cars,19,8.0,5.0,Rear-Wheel Drive,Automatic
@@ -25926,8 +25933,12 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2012,Midsize Cars,26,5.0,2.5,Front-Wheel Drive,Manual
 2012,Midsize Cars,23,6.0,3.6,Front-Wheel Drive,Automatic
 2012,Large Cars,21,6.0,3.6,Rear-Wheel Drive,Automatic
+2012,Large Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
+2012,Large Cars,18,8.0,5.7,4-Wheel Drive,Automatic
 2012,Large Cars,17,8.0,6.4,Rear-Wheel Drive,Automatic
 2012,Large Cars,21,6.0,3.6,Rear-Wheel Drive,Automatic
+2012,Large Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
+2012,Large Cars,18,8.0,5.7,4-Wheel Drive,Automatic
 2012,Large Cars,17,8.0,6.4,Rear-Wheel Drive,Automatic
 2012,Large Cars,20,6.0,3.5,4-Wheel Drive,Automatic
 2012,Large Cars,21,6.0,3.5,Front-Wheel Drive,Automatic
@@ -26548,6 +26559,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2012,Small Pickup Trucks,19,5.0,3.7,Rear-Wheel Drive,Automatic
 2012,Small Pickup Trucks,19,5.0,3.7,Rear-Wheel Drive,Automatic
 2012,Standard Pickup Trucks,17,6.0,4.3,Rear-Wheel Drive,Automatic
+2012,Standard Pickup Trucks,16,8.0,5.7,Rear-Wheel Drive,Automatic
 2012,Standard Pickup Trucks,16,6.0,3.7,Rear-Wheel Drive,Automatic
 2012,Standard Pickup Trucks,17,6.0,4.3,Rear-Wheel Drive,Automatic
 2012,Small Pickup Trucks,18,5.0,3.7,4-Wheel Drive,Automatic
@@ -26596,6 +26608,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2012,Midsize Cars,24,4.0,2.4,Front-Wheel Drive,Automatic
 2012,Midsize Cars,32,4.0,1.4,Front-Wheel Drive,Manual
 2012,Midsize Cars,24,4.0,2.5,Front-Wheel Drive,Manual
+2012,Standard Pickup Trucks,15,8.0,5.7,4-Wheel Drive,Automatic
 2012,Midsize Cars,22,6.0,3.5,Front-Wheel Drive,Automatic
 2012,Vans,17,6.0,4.3,Rear-Wheel Drive,Automatic
 2012,Sport Utility Vehicle,19,6.0,3.0,4-Wheel Drive,Automatic
@@ -26603,6 +26616,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2012,Sport Utility Vehicle,18,6.0,3.5,4-Wheel Drive,Automatic
 2012,Sport Utility Vehicle,18,6.0,3.5,4-Wheel Drive,Automatic
 2012,Sport Utility Vehicle,19,6.0,3.6,4-Wheel Drive,Automatic
+2012,Sport Utility Vehicle,15,8.0,5.7,4-Wheel Drive,Automatic
 2012,Sport Utility Vehicle,19,6.0,3.6,4-Wheel Drive,Automatic
 2012,Sport Utility Vehicle,19,6.0,3.6,4-Wheel Drive,Automatic
 2012,Sport Utility Vehicle,19,6.0,3.0,4-Wheel Drive,Automatic
@@ -26624,6 +26638,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2012,Sport Utility Vehicle,19,6.0,3.6,4-Wheel Drive,Automatic
 2012,Sport Utility Vehicle,13,8.0,5.5,4-Wheel Drive,Automatic
 2012,Sport Utility Vehicle,14,8.0,5.5,4-Wheel Drive,Automatic
+2012,Sport Utility Vehicle,15,8.0,5.7,4-Wheel Drive,Automatic
 2012,Sport Utility Vehicle,15,8.0,4.7,4-Wheel Drive,Automatic
 2012,Standard Pickup Trucks,16,6.0,4.3,4-Wheel Drive,Automatic
 2012,Sport Utility Vehicle,14,8.0,5.0,4-Wheel Drive,Automatic
@@ -26636,6 +26651,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2012,Sport Utility Vehicle,22,4.0,2.4,Front-Wheel Drive,Automatic
 2012,Sport Utility Vehicle,18,6.0,3.5,4-Wheel Drive,Automatic
 2012,Sport Utility Vehicle,19,6.0,3.6,Front-Wheel Drive,Automatic
+2012,Sport Utility Vehicle,16,8.0,5.7,Rear-Wheel Drive,Automatic
 2012,Vans,17,6.0,4.3,Rear-Wheel Drive,Automatic
 2012,Sport Utility Vehicle,19,6.0,3.6,Front-Wheel Drive,Automatic
 2012,Sport Utility Vehicle,20,6.0,3.0,Front-Wheel Drive,Automatic
@@ -26822,12 +26838,17 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2013,Compact Cars,26,5.0,2.5,Front-Wheel Drive,Automatic
 2013,Large Cars,24,6.0,3.0,Rear-Wheel Drive,Automatic
 2013,Large Cars,17,8.0,6.4,Rear-Wheel Drive,Automatic
+2013,Large Cars,18,8.0,5.7,4-Wheel Drive,Automatic
+2013,Large Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
 2013,Large Cars,21,6.0,3.6,4-Wheel Drive,Automatic
 2013,Large Cars,23,6.0,3.6,Rear-Wheel Drive,Automatic
+2013,Large Cars,18,8.0,5.7,4-Wheel Drive,Automatic
+2013,Large Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
 2013,Large Cars,21,6.0,3.6,Rear-Wheel Drive,Automatic
 2013,Large Cars,21,6.0,3.6,4-Wheel Drive,Automatic
 2013,Large Cars,23,6.0,3.6,Rear-Wheel Drive,Automatic
 2013,Compact Cars,26,5.0,2.5,Front-Wheel Drive,Manual
+2013,Midsize Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
 2013,Midsize Cars,17,8.0,6.4,Rear-Wheel Drive,Automatic
 2013,Midsize Cars,23,4.0,2.4,Front-Wheel Drive,Automatic
 2013,Compact Cars,25,4.0,2.4,4-Wheel Drive,Automatic
@@ -26876,6 +26897,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2013,Sport Utility Vehicle,21,6.0,3.0,4-Wheel Drive,Automatic
 2013,Sport Utility Vehicle,21,6.0,3.5,4-Wheel Drive,Automatic
 2013,Sport Utility Vehicle,14,8.0,5.0,4-Wheel Drive,Automatic
+2013,Standard Pickup Trucks,17,8.0,5.7,Rear-Wheel Drive,Automatic
 2013,Large Cars,20,6.0,3.0,Rear-Wheel Drive,Automatic
 2013,Midsize Cars,24,4.0,2.4,Front-Wheel Drive,Automatic
 2013,Two Seaters,13,12.0,6.3,Rear-Wheel Drive,Automatic
@@ -26922,6 +26944,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2013,Compact Cars,25,4.0,2.4,Front-Wheel Drive,Manual
 2013,Compact Cars,27,4.0,1.6,Front-Wheel Drive,Automatic
 2013,Compact Cars,30,4.0,1.6,Front-Wheel Drive,Manual
+2013,Standard Pickup Trucks,17,8.0,5.7,4-Wheel Drive,Automatic
 2013,Sport Utility Vehicle,22,6.0,3.5,4-Wheel Drive,Automatic
 2013,Sport Utility Vehicle,25,4.0,2.5,4-Wheel Drive,Automatic
 2013,Sport Utility Vehicle,14,8.0,5.5,4-Wheel Drive,Automatic
@@ -26982,6 +27005,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2013,Standard Pickup Trucks,15,8.0,6.2,Rear-Wheel Drive,Automatic
 2013,Standard Pickup Trucks,18,6.0,3.5,Rear-Wheel Drive,Automatic
 2013,Standard Pickup Trucks,15,8.0,5.6,Rear-Wheel Drive,Automatic
+2013,Standard Pickup Trucks,16,8.0,5.7,Rear-Wheel Drive,Automatic
 2013,Standard Pickup Trucks,17,6.0,4.0,Rear-Wheel Drive,Automatic
 2013,Standard Pickup Trucks,17,8.0,4.6,Rear-Wheel Drive,Automatic
 2013,Standard Pickup Trucks,15,8.0,5.7,Rear-Wheel Drive,Automatic
@@ -27019,6 +27043,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2013,Midsize Cars,18,8.0,4.0,4-Wheel Drive,Automatic
 2013,Midsize Cars,13,8.0,6.8,Rear-Wheel Drive,Automatic
 2013,Midsize Cars,24,4.0,2.0,Front-Wheel Drive,Automatic
+2013,Standard Pickup Trucks,15,8.0,5.7,4-Wheel Drive,Automatic
 2013,Sport Utility Vehicle,19,6.0,3.6,Front-Wheel Drive,Automatic
 2013,Standard Pickup Trucks,16,8.0,4.6,4-Wheel Drive,Automatic
 2013,Vans,12,10.0,6.8,Rear-Wheel Drive,Automatic
@@ -27353,6 +27378,10 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2013,Sport Utility Vehicle,18,6.0,3.6,4-Wheel Drive,Automatic
 2013,Sport Utility Vehicle,20,6.0,3.2,4-Wheel Drive,Automatic
 2013,Sport Utility Vehicle,20,6.0,3.2,4-Wheel Drive,Automatic
+2013,Sport Utility Vehicle,16,8.0,5.7,Rear-Wheel Drive,Automatic
+2013,Sport Utility Vehicle,16,8.0,5.7,Rear-Wheel Drive,Automatic
+2013,Sport Utility Vehicle,15,8.0,5.7,4-Wheel Drive,Automatic
+2013,Sport Utility Vehicle,15,8.0,5.7,4-Wheel Drive,Automatic
 2013,Sport Utility Vehicle,14,8.0,6.4,4-Wheel Drive,Automatic
 2013,Sport Utility Vehicle,15,8.0,5.0,4-Wheel Drive,Automatic
 2013,Sport Utility Vehicle,17,8.0,4.6,4-Wheel Drive,Automatic
@@ -27699,6 +27728,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2014,Sport Utility Vehicle,15,8.0,4.7,4-Wheel Drive,Automatic
 2014,Minicompact Cars,22,6.0,3.5,Rear-Wheel Drive,Automatic
 2014,Minivan,20,6.0,3.6,Front-Wheel Drive,Automatic
+2014,Standard Pickup Trucks,15,8.0,5.7,4-Wheel Drive,Automatic
 2014,Midsize Cars,32,4.0,1.4,Front-Wheel Drive,Manual
 2014,Midsize Cars,30,4.0,1.4,Front-Wheel Drive,Automatic
 2014,Midsize Cars,29,4.0,1.4,Front-Wheel Drive,Manual
@@ -27711,6 +27741,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2014,Midsize Cars,23,4.0,2.0,Rear-Wheel Drive,Automatic
 2014,Midsize Cars,25,4.0,2.0,4-Wheel Drive,Automatic
 2014,Midsize Cars,26,4.0,2.0,Front-Wheel Drive,Automatic
+2014,Standard Pickup Trucks,17,8.0,5.7,4-Wheel Drive,Automatic
 2014,Midsize Cars,21,6.0,3.7,4-Wheel Drive,Automatic
 2014,Large Cars,24,6.0,3.0,4-Wheel Drive,Automatic
 2014,Large Cars,21,6.0,3.0,4-Wheel Drive,Automatic
@@ -27722,6 +27753,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2014,Small Station Wagons,14,8.0,6.2,Rear-Wheel Drive,Automatic
 2014,Small Station Wagons,26,5.0,2.5,Front-Wheel Drive,Automatic
 2014,Small Station Wagons,26,5.0,2.5,Front-Wheel Drive,Manual
+2014,Standard Pickup Trucks,17,8.0,5.7,Rear-Wheel Drive,Automatic
 2014,Standard Pickup Trucks,20,6.0,3.6,Rear-Wheel Drive,Automatic
 2014,Midsize Cars,22,6.0,3.7,Front-Wheel Drive,Automatic
 2014,Large Cars,14,12.0,6.7,Rear-Wheel Drive,Automatic
@@ -27741,9 +27773,13 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2014,Large Cars,19,8.0,4.4,4-Wheel Drive,Automatic
 2014,Midsize Cars,15,12.0,6.6,Rear-Wheel Drive,Automatic
 2014,Large Cars,15,12.0,6.0,Rear-Wheel Drive,Automatic
+2014,Large Cars,18,8.0,5.7,Rear-Wheel Drive,Automatic
 2014,Large Cars,21,6.0,3.6,4-Wheel Drive,Automatic
+2014,Large Cars,18,8.0,5.7,4-Wheel Drive,Automatic
 2014,Large Cars,21,6.0,3.6,Rear-Wheel Drive,Automatic
+2014,Large Cars,18,8.0,5.7,Rear-Wheel Drive,Automatic
 2014,Large Cars,21,6.0,3.6,4-Wheel Drive,Automatic
+2014,Large Cars,18,8.0,5.7,4-Wheel Drive,Automatic
 2014,Large Cars,18,8.0,5.0,Rear-Wheel Drive,Automatic
 2014,Large Cars,18,8.0,5.0,Rear-Wheel Drive,Automatic
 2014,Large Cars,19,6.0,3.0,4-Wheel Drive,Automatic
@@ -27777,6 +27813,8 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2014,Midsize Cars,23,4.0,2.4,Front-Wheel Drive,Automatic
 2014,Midsize Cars,24,4.0,2.4,Front-Wheel Drive,Automatic
 2014,Midsize Cars,23,4.0,2.4,Front-Wheel Drive,Automatic
+2014,Midsize Cars,21,6.0,3.6,Rear-Wheel Drive,Automatic
+2014,Midsize Cars,18,8.0,5.7,Rear-Wheel Drive,Automatic
 2014,Midsize Cars,23,6.0,3.0,4-Wheel Drive,Automatic
 2014,Sport Utility Vehicle,20,6.0,3.5,4-Wheel Drive,Automatic
 2014,Standard Pickup Trucks,17,6.0,3.5,4-Wheel Drive,Automatic
@@ -27925,6 +27963,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2014,Subcompact Cars,24,6.0,2.5,Rear-Wheel Drive,Automatic
 2014,Subcompact Cars,22,6.0,3.5,Rear-Wheel Drive,Automatic
 2014,Sport Utility Vehicle,14,8.0,5.6,4-Wheel Drive,Automatic
+2014,Sport Utility Vehicle,16,8.0,5.7,4-Wheel Drive,Automatic
 2014,Sport Utility Vehicle,23,4.0,2.4,4-Wheel Drive,Automatic
 2014,Sport Utility Vehicle,22,6.0,3.2,4-Wheel Drive,Automatic
 2014,Sport Utility Vehicle,20,6.0,3.5,4-Wheel Drive,Automatic
@@ -27949,6 +27988,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2014,Standard Pickup Trucks,14,8.0,5.6,4-Wheel Drive,Automatic
 2014,Sport Utility Vehicle,23,4.0,2.4,4-Wheel Drive,Automatic
 2014,Sport Utility Vehicle,21,6.0,3.2,4-Wheel Drive,Automatic
+2014,Sport Utility Vehicle,17,8.0,5.7,Rear-Wheel Drive,Automatic
 2014,Sport Utility Vehicle,15,8.0,5.6,Rear-Wheel Drive,Automatic
 2014,Small Pickup Trucks,22,4.0,2.7,Rear-Wheel Drive,Manual
 2014,Sport Utility Vehicle,17,8.0,4.6,4-Wheel Drive,Automatic
@@ -28230,6 +28270,8 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2014,Minivan,20,6.0,3.5,Front-Wheel Drive,Automatic
 2014,Sport Utility Vehicle,21,4.0,2.4,4-Wheel Drive,Automatic
 2014,Sport Utility Vehicle,21,4.0,2.4,4-Wheel Drive,Automatic
+2014,Sport Utility Vehicle,17,8.0,5.7,Rear-Wheel Drive,Automatic
+2014,Sport Utility Vehicle,16,8.0,5.7,4-Wheel Drive,Automatic
 2014,Sport Utility Vehicle,18,8.0,4.8,4-Wheel Drive,Automatic
 2014,Subcompact Cars,23,6.0,3.0,4-Wheel Drive,Automatic
 2014,Subcompact Cars,23,6.0,3.0,4-Wheel Drive,Automatic
@@ -28309,6 +28351,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2014,Small Station Wagons,28,4.0,1.4,Front-Wheel Drive,Manual
 2014,Small Station Wagons,21,4.0,2.5,4-Wheel Drive,Manual
 2014,Small Station Wagons,19,4.0,2.5,4-Wheel Drive,Manual
+2014,Standard Pickup Trucks,16,8.0,5.7,Rear-Wheel Drive,Automatic
 2014,Standard Pickup Trucks,19,6.0,3.6,4-Wheel Drive,Automatic
 2014,Sport Utility Vehicle,22,6.0,3.5,Front-Wheel Drive,Automatic
 2014,Sport Utility Vehicle,26,4.0,2.0,Front-Wheel Drive,Manual
@@ -28642,8 +28685,10 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2015,Sport Utility Vehicle,22,6.0,3.2,4-Wheel Drive,Automatic
 2015,Sport Utility Vehicle,19,6.0,3.7,4-Wheel Drive,Automatic
 2015,Vans,13,8.0,6.0,Rear-Wheel Drive,Automatic
+2015,Sport Utility Vehicle,17,8.0,5.7,Rear-Wheel Drive,Automatic
 2015,Sport Utility Vehicle,15,8.0,6.4,4-Wheel Drive,Automatic
 2015,Compact Cars,34,4.0,1.8,Front-Wheel Drive,Automatic
+2015,Sport Utility Vehicle,16,8.0,5.7,4-Wheel Drive,Automatic
 2015,Compact Cars,27,4.0,1.6,Front-Wheel Drive,Manual
 2015,Sport Utility Vehicle,19,6.0,3.5,4-Wheel Drive,Automatic
 2015,Subcompact Cars,26,4.0,2.0,4-Wheel Drive,Automatic
@@ -28679,7 +28724,9 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2015,Large Cars,26,4.0,2.0,4-Wheel Drive,Automatic
 2015,Large Cars,20,6.0,3.6,4-Wheel Drive,Automatic
 2015,Large Cars,23,6.0,3.6,Rear-Wheel Drive,Automatic
+2015,Large Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
 2015,Large Cars,23,6.0,3.6,Rear-Wheel Drive,Automatic
+2015,Large Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
 2015,Small Station Wagons,26,4.0,2.0,4-Wheel Drive,Automatic
 2015,Vans,12,8.0,6.0,Rear-Wheel Drive,Automatic
 2015,Vans,12,8.0,6.0,Rear-Wheel Drive,Automatic
@@ -28687,6 +28734,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2015,Vans,13,8.0,4.8,Rear-Wheel Drive,Automatic
 2015,Vans,13,8.0,6.0,Rear-Wheel Drive,Automatic
 2015,Vans,12,8.0,6.0,Rear-Wheel Drive,Automatic
+2015,Midsize Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
 2015,Midsize Cars,26,4.0,2.4,Front-Wheel Drive,Manual
 2015,Compact Cars,23,6.0,3.0,4-Wheel Drive,Manual
 2015,Compact Cars,25,6.0,3.0,Rear-Wheel Drive,Automatic
@@ -28805,6 +28853,8 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2015,Large Cars,21,6.0,3.6,4-Wheel Drive,Automatic
 2015,Subcompact Cars,26,4.0,2.0,4-Wheel Drive,Automatic
 2015,Midsize-Large Station Wagons,22,6.0,3.0,4-Wheel Drive,Automatic
+2015,Sport Utility Vehicle,17,8.0,5.7,Rear-Wheel Drive,Automatic
+2015,Sport Utility Vehicle,16,8.0,5.7,4-Wheel Drive,Automatic
 2015,Two Seaters,16,8.0,6.2,Rear-Wheel Drive,Automatic
 2015,Subcompact Cars,23,6.0,3.0,Rear-Wheel Drive,Automatic
 2015,Subcompact Cars,23,6.0,3.0,4-Wheel Drive,Automatic
@@ -28906,9 +28956,13 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2015,Midsize Cars,16,8.0,6.2,Rear-Wheel Drive,Automatic
 2015,Midsize Cars,28,4.0,2.5,Front-Wheel Drive,Automatic
 2015,Midsize Cars,25,6.0,3.5,Front-Wheel Drive,Automatic
+2015,Standard Pickup Trucks,16,8.0,5.7,Rear-Wheel Drive,Automatic
+2015,Standard Pickup Trucks,17,8.0,5.7,Rear-Wheel Drive,Automatic
 2015,Standard Pickup Trucks,20,6.0,3.6,Rear-Wheel Drive,Automatic
 2015,Standard Pickup Trucks,21,6.0,3.6,Rear-Wheel Drive,Automatic
+2015,Standard Pickup Trucks,15,8.0,5.7,4-Wheel Drive,Automatic
 2015,Standard Pickup Trucks,19,6.0,3.6,4-Wheel Drive,Automatic
+2015,Standard Pickup Trucks,17,8.0,5.7,4-Wheel Drive,Automatic
 2015,Midsize Cars,27,4.0,2.0,Front-Wheel Drive,Manual
 2015,Midsize Cars,28,4.0,2.0,Front-Wheel Drive,Automatic
 2015,Sport Utility Vehicle,16,6.0,3.5,4-Wheel Drive,Automatic
@@ -29911,12 +29965,15 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2016,Vans,12,8.0,6.0,Rear-Wheel Drive,Automatic
 2016,Sport Utility Vehicle,22,4.0,2.0,4-Wheel Drive,Automatic
 2016,Sport Utility Vehicle,21,6.0,3.6,Rear-Wheel Drive,Automatic
+2016,Sport Utility Vehicle,17,8.0,5.7,Rear-Wheel Drive,Automatic
 2016,Midsize Cars,26,4.0,2.0,Rear-Wheel Drive,Automatic
 2016,Sport Utility Vehicle,21,6.0,3.6,Rear-Wheel Drive,Automatic
 2016,Sport Utility Vehicle,21,6.0,3.6,4-Wheel Drive,Automatic
 2016,Midsize Cars,22,6.0,3.0,4-Wheel Drive,Automatic
+2016,Sport Utility Vehicle,17,8.0,5.7,4-Wheel Drive,Automatic
 2016,Sport Utility Vehicle,15,8.0,6.4,4-Wheel Drive,Automatic
 2016,Sport Utility Vehicle,21,6.0,3.6,4-Wheel Drive,Automatic
+2016,Sport Utility Vehicle,17,8.0,5.7,4-Wheel Drive,Automatic
 2016,Midsize Cars,22,6.0,3.0,Rear-Wheel Drive,Automatic
 2016,Two Seaters,19,6.0,3.0,Rear-Wheel Drive,Automatic
 2016,Sport Utility Vehicle,30,4.0,1.4,Front-Wheel Drive,Automatic
@@ -29928,7 +29985,9 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2016,Midsize Cars,23,6.0,3.6,Front-Wheel Drive,Automatic
 2016,Midsize Cars,29,4.0,1.8,Front-Wheel Drive,Automatic
 2016,Large Cars,23,6.0,3.6,Rear-Wheel Drive,Automatic
+2016,Large Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
 2016,Large Cars,21,6.0,3.6,4-Wheel Drive,Automatic
+2016,Large Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
 2016,Large Cars,21,6.0,3.6,4-Wheel Drive,Automatic
 2016,Large Cars,18,8.0,6.4,Rear-Wheel Drive,Automatic
 2016,Large Cars,16,8.0,6.2,Rear-Wheel Drive,Automatic
@@ -29978,6 +30037,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2016,Compact Cars,25,6.0,3.5,Front-Wheel Drive,Automatic
 2016,Compact Cars,25,6.0,3.5,4-Wheel Drive,Automatic
 2016,Midsize Cars,23,6.0,3.6,Rear-Wheel Drive,Automatic
+2016,Midsize Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
 2016,Midsize Cars,18,8.0,6.4,Rear-Wheel Drive,Automatic
 2016,Midsize Cars,18,8.0,5.7,Rear-Wheel Drive,Manual
 2016,Midsize Cars,17,8.0,6.4,Rear-Wheel Drive,Manual
@@ -30425,6 +30485,10 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2016,Large Cars,20,8.0,4.7,Rear-Wheel Drive,Automatic
 2016,Large Cars,18,8.0,5.5,4-Wheel Drive,Automatic
 2016,Large Cars,19,8.0,4.7,4-Wheel Drive,Automatic
+2016,Standard Pickup Trucks,16,8.0,5.7,Rear-Wheel Drive,Automatic
+2016,Standard Pickup Trucks,17,8.0,5.7,Rear-Wheel Drive,Automatic
+2016,Standard Pickup Trucks,15,8.0,5.7,4-Wheel Drive,Automatic
+2016,Standard Pickup Trucks,17,8.0,5.7,4-Wheel Drive,Automatic
 2016,Compact Cars,24,6.0,3.0,Rear-Wheel Drive,Automatic
 2016,Sport Utility Vehicle,23,4.0,2.4,4-Wheel Drive,Automatic
 2016,Sport Utility Vehicle,19,6.0,3.5,4-Wheel Drive,Automatic
@@ -30783,6 +30847,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2017,Midsize Cars,28,4.0,2.5,Front-Wheel Drive,Manual
 2017,Sport Utility Vehicle,20,6.0,3.6,4-Wheel Drive,Automatic
 2017,Compact Cars,14,12.0,6.7,Rear-Wheel Drive,Automatic
+2017,Sport Utility Vehicle,17,8.0,5.7,4-Wheel Drive,Automatic
 2017,Compact Cars,19,6.0,3.0,Rear-Wheel Drive,Automatic
 2017,Sport Utility Vehicle,17,6.0,3.5,4-Wheel Drive,Automatic
 2017,Sport Utility Vehicle,23,4.0,2.5,4-Wheel Drive,Automatic
@@ -30822,6 +30887,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2017,Minicompact Cars,22,6.0,3.0,4-Wheel Drive,Manual
 2017,Midsize Cars,23,6.0,3.0,Rear-Wheel Drive,Automatic
 2017,Compact Cars,22,6.0,3.6,4-Wheel Drive,Automatic
+2017,Sport Utility Vehicle,17,8.0,5.7,4-Wheel Drive,Automatic
 2017,Compact Cars,30,4.0,1.6,Front-Wheel Drive,Automatic
 2017,Sport Utility Vehicle,17,6.0,3.5,Rear-Wheel Drive,Automatic
 2017,Subcompact Cars,28,4.0,2.0,Front-Wheel Drive,Automatic
@@ -31050,6 +31116,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2017,Midsize Cars,24,4.0,2.0,4-Wheel Drive,Automatic
 2017,Minivan,20,6.0,3.5,4-Wheel Drive,Automatic
 2017,Minivan,22,6.0,3.5,Front-Wheel Drive,Automatic
+2017,Standard Pickup Trucks,17,8.0,5.7,4-Wheel Drive,Automatic
 2017,Sport Utility Vehicle,16,6.0,3.0,4-Wheel Drive,Automatic
 2017,Compact Cars,27,4.0,2.0,Rear-Wheel Drive,Automatic
 2017,Subcompact Cars,18,8.0,5.0,Rear-Wheel Drive,Manual
@@ -31123,6 +31190,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2017,Minicompact Cars,34,4.0,1.4,Front-Wheel Drive,Manual
 2017,Sport Utility Vehicle,23,6.0,3.5,Front-Wheel Drive,Automatic
 2017,Sport Utility Vehicle,17,8.0,6.2,4-Wheel Drive,Automatic
+2017,Standard Pickup Trucks,15,8.0,5.7,4-Wheel Drive,Automatic
 2017,Sport Utility Vehicle,22,6.0,3.5,Front-Wheel Drive,Automatic
 2017,Sport Utility Vehicle,16,8.0,6.2,4-Wheel Drive,Automatic
 2017,Sport Utility Vehicle,22,6.0,3.5,4-Wheel Drive,Automatic
@@ -31130,6 +31198,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2017,Sport Utility Vehicle,14,8.0,5.5,4-Wheel Drive,Automatic
 2017,Sport Utility Vehicle,21,6.0,3.5,4-Wheel Drive,Automatic
 2017,Sport Utility Vehicle,18,8.0,5.3,4-Wheel Drive,Automatic
+2017,Standard Pickup Trucks,17,8.0,5.7,Rear-Wheel Drive,Automatic
 2017,Sport Utility Vehicle,22,4.0,2.3,Front-Wheel Drive,Automatic
 2017,Sport Utility Vehicle,18,8.0,5.3,4-Wheel Drive,Automatic
 2017,Sport Utility Vehicle,20,6.0,3.5,Front-Wheel Drive,Automatic
@@ -31218,6 +31287,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2017,Standard Pickup Trucks,19,6.0,2.7,4-Wheel Drive,Automatic
 2017,Large Cars,33,4.0,1.5,Front-Wheel Drive,Manual
 2017,Midsize Cars,23,6.0,3.6,Rear-Wheel Drive,Automatic
+2017,Midsize Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
 2017,Midsize Cars,18,8.0,6.4,Rear-Wheel Drive,Automatic
 2017,Large Cars,21,6.0,3.0,4-Wheel Drive,Automatic
 2017,Small Station Wagons,28,4.0,1.6,Front-Wheel Drive,Manual
@@ -31270,8 +31340,10 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2017,Large Cars,18,6.0,3.0,4-Wheel Drive,Automatic
 2017,Large Cars,16,8.0,6.2,Rear-Wheel Drive,Automatic
 2017,Large Cars,18,8.0,6.4,Rear-Wheel Drive,Automatic
+2017,Large Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
 2017,Large Cars,21,6.0,3.6,4-Wheel Drive,Automatic
 2017,Large Cars,23,6.0,3.6,Rear-Wheel Drive,Automatic
+2017,Large Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
 2017,Compact Cars,26,4.0,2.0,Front-Wheel Drive,Automatic
 2017,Large Cars,21,6.0,3.6,4-Wheel Drive,Automatic
 2017,Midsize Cars,30,4.0,2.0,4-Wheel Drive,Automatic
@@ -31279,6 +31351,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2017,Midsize Cars,32,4.0,2.0,4-Wheel Drive,Automatic
 2017,Large Cars,17,8.0,3.8,Rear-Wheel Drive,Automatic
 2017,Standard Pickup Trucks,17,8.0,5.3,4-Wheel Drive,Automatic
+2017,Sport Utility Vehicle,24,6.0,3.2,Front-Wheel Drive,Automatic
 2017,Large Cars,23,6.0,3.6,Rear-Wheel Drive,Automatic
 2017,Midsize Cars,20,6.0,2.9,Rear-Wheel Drive,Automatic
 2017,Compact Cars,37,3.0,1.2,Front-Wheel Drive,Automatic
@@ -31448,6 +31521,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2017,Sport Utility Vehicle,23,4.0,2.4,4-Wheel Drive,Automatic
 2017,Sport Utility Vehicle,19,6.0,3.6,4-Wheel Drive,Automatic
 2017,Sport Utility Vehicle,22,4.0,2.4,4-Wheel Drive,Automatic
+2017,Sport Utility Vehicle,23,6.0,3.2,4-Wheel Drive,Automatic
 2017,Large Cars,23,6.0,3.3,Front-Wheel Drive,Automatic
 2017,Minicompact Cars,28,4.0,2.0,Front-Wheel Drive,Automatic
 2017,Sport Utility Vehicle,25,4.0,2.4,Front-Wheel Drive,Automatic
@@ -31496,6 +31570,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2017,Sport Utility Vehicle,21,6.0,3.6,Rear-Wheel Drive,Automatic
 2017,Minicompact Cars,21,6.0,3.8,4-Wheel Drive,Automatic
 2017,Large Cars,22,6.0,3.6,Front-Wheel Drive,Automatic
+2017,Sport Utility Vehicle,17,8.0,5.7,Rear-Wheel Drive,Automatic
 2017,Sport Utility Vehicle,18,6.0,3.7,4-Wheel Drive,Automatic
 2017,Sport Utility Vehicle,18,6.0,3.6,4-Wheel Drive,Automatic
 2017,Minicompact Cars,21,6.0,3.8,4-Wheel Drive,Automatic
@@ -31545,6 +31620,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2017,Sport Utility Vehicle,20,6.0,3.6,Front-Wheel Drive,Automatic
 2017,Sport Utility Vehicle,24,4.0,2.0,4-Wheel Drive,Automatic
 2017,Large Cars,21,6.0,3.6,4-Wheel Drive,Automatic
+2017,Sport Utility Vehicle,21,6.0,3.2,4-Wheel Drive,Automatic
 2017,Midsize Cars,25,4.0,2.5,Front-Wheel Drive,Automatic
 2017,Minicompact Cars,24,6.0,3.0,Rear-Wheel Drive,Automatic
 2017,Midsize Cars,27,4.0,2.0,Front-Wheel Drive,Automatic
@@ -31554,6 +31630,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2017,Minicompact Cars,23,6.0,3.0,Rear-Wheel Drive,Manual
 2017,Large Cars,21,6.0,2.7,Front-Wheel Drive,Automatic
 2017,Compact Cars,25,4.0,2.0,4-Wheel Drive,Automatic
+2017,Sport Utility Vehicle,21,6.0,3.2,4-Wheel Drive,Automatic
 2017,Subcompact Cars,33,4.0,1.4,Front-Wheel Drive,Automatic
 2017,Sport Utility Vehicle,23,6.0,3.5,4-Wheel Drive,Automatic
 2017,Sport Utility Vehicle,29,4.0,1.5,4-Wheel Drive,Automatic
@@ -32111,6 +32188,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2018,Sport Utility Vehicle,17,8.0,6.2,Rear-Wheel Drive,Automatic
 2018,Sport Utility Vehicle,19,8.0,5.3,Rear-Wheel Drive,Automatic
 2018,Sport Utility Vehicle,19,8.0,5.3,Rear-Wheel Drive,Automatic
+2018,Midsize Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
 2018,Midsize Cars,23,6.0,3.6,Rear-Wheel Drive,Automatic
 2018,Compact Cars,33,4.0,1.4,Front-Wheel Drive,Manual
 2018,Compact Cars,32,4.0,1.4,Front-Wheel Drive,Automatic
@@ -32410,7 +32488,10 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2018,Subcompact Cars,19,8.0,4.0,Rear-Wheel Drive,Automatic
 2018,Subcompact Cars,19,8.0,4.0,Rear-Wheel Drive,Automatic
 2018,Sport Utility Vehicle,14,8.0,5.7,4-Wheel Drive,Automatic
+2018,Sport Utility Vehicle,17,8.0,5.7,4-Wheel Drive,Automatic
+2018,Sport Utility Vehicle,17,8.0,5.7,4-Wheel Drive,Automatic
 2018,Sport Utility Vehicle,15,8.0,5.7,Rear-Wheel Drive,Automatic
+2018,Sport Utility Vehicle,17,8.0,5.7,Rear-Wheel Drive,Automatic
 2018,Midsize-Large Station Wagons,21,6.0,3.0,4-Wheel Drive,Automatic
 2018,Small Station Wagons,29,4.0,1.8,4-Wheel Drive,Automatic
 2018,Midsize Cars,34,4.0,1.8,Front-Wheel Drive,Automatic
@@ -32426,8 +32507,11 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2018,Sport Utility Vehicle,26,4.0,2.5,Front-Wheel Drive,Automatic
 2018,Sport Utility Vehicle,25,4.0,2.5,Front-Wheel Drive,Automatic
 2018,Sport Utility Vehicle,21,4.0,2.4,Front-Wheel Drive,Automatic
+2018,Standard Pickup Trucks,17,8.0,5.7,4-Wheel Drive,Automatic
+2018,Standard Pickup Trucks,14,8.0,5.7,4-Wheel Drive,Automatic
 2018,Small Station Wagons,29,4.0,1.8,4-Wheel Drive,Automatic
 2018,Standard Pickup Trucks,18,8.0,5.3,4-Wheel Drive,Automatic
+2018,Standard Pickup Trucks,17,8.0,5.7,Rear-Wheel Drive,Automatic
 2018,Midsize-Large Station Wagons,18,8.0,4.0,4-Wheel Drive,Automatic
 2018,Large Cars,23,6.0,2.9,4-Wheel Drive,Automatic
 2018,Large Cars,23,6.0,2.9,4-Wheel Drive,Automatic
@@ -32606,6 +32690,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2018,Midsize Cars,24,4.0,2.0,4-Wheel Drive,Manual
 2018,Midsize Cars,26,4.0,2.0,4-Wheel Drive,Automatic
 2018,Sport Utility Vehicle,22,4.0,2.4,4-Wheel Drive,Automatic
+2018,Sport Utility Vehicle,21,6.0,3.2,4-Wheel Drive,Automatic
 2018,Midsize Cars,27,4.0,2.0,Front-Wheel Drive,Automatic
 2018,Midsize Cars,25,4.0,2.0,Front-Wheel Drive,Manual
 2018,Sport Utility Vehicle,17,8.0,6.2,Rear-Wheel Drive,Automatic
@@ -32622,8 +32707,10 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2018,Sport Utility Vehicle,21,6.0,3.6,4-Wheel Drive,Automatic
 2018,Sport Utility Vehicle,21,6.0,3.6,4-Wheel Drive,Automatic
 2018,Sport Utility Vehicle,19,6.0,3.0,4-Wheel Drive,Automatic
+2018,Sport Utility Vehicle,21,6.0,3.2,4-Wheel Drive,Automatic
 2018,Sport Utility Vehicle,23,4.0,2.4,4-Wheel Drive,Automatic
 2018,Midsize Cars,24,4.0,2.0,4-Wheel Drive,Manual
+2018,Sport Utility Vehicle,23,6.0,3.2,4-Wheel Drive,Automatic
 2018,Sport Utility Vehicle,15,8.0,6.4,4-Wheel Drive,Automatic
 2018,Sport Utility Vehicle,16,8.0,5.6,Rear-Wheel Drive,Automatic
 2018,Sport Utility Vehicle,23,4.0,2.5,4-Wheel Drive,Automatic
@@ -32642,6 +32729,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2018,Minivan,22,6.0,3.6,Front-Wheel Drive,Automatic
 2018,Large Cars,25,4.0,2.0,4-Wheel Drive,Automatic
 2018,Sport Utility Vehicle,25,4.0,2.4,Front-Wheel Drive,Automatic
+2018,Sport Utility Vehicle,24,6.0,3.2,Front-Wheel Drive,Automatic
 2018,Sport Utility Vehicle,26,4.0,1.5,4-Wheel Drive,Automatic
 2018,Sport Utility Vehicle,23,4.0,2.4,4-Wheel Drive,Automatic
 2018,Sport Utility Vehicle,15,8.0,6.4,4-Wheel Drive,Automatic
@@ -32699,8 +32787,10 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2018,Small Station Wagons,32,4.0,1.4,Front-Wheel Drive,Manual
 2018,Small Pickup Trucks,17,6.0,3.6,4-Wheel Drive,Automatic
 2018,Compact Cars,23,6.0,3.0,4-Wheel Drive,Automatic
+2018,Large Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
 2018,Large Cars,21,6.0,3.6,4-Wheel Drive,Automatic
 2018,Large Cars,23,6.0,3.6,Rear-Wheel Drive,Automatic
+2018,Large Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
 2018,Compact Cars,27,4.0,2.0,Rear-Wheel Drive,Automatic
 2018,Compact Cars,26,4.0,2.0,4-Wheel Drive,Automatic
 2018,Large Cars,18,8.0,6.4,Rear-Wheel Drive,Automatic
@@ -33361,6 +33451,8 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2019,Compact Cars,26,4.0,2.4,Front-Wheel Drive,Automatic
 2019,Sport Utility Vehicle,24,4.0,2.5,4-Wheel Drive,Automatic
 2019,Sport Utility Vehicle,25,4.0,2.5,Front-Wheel Drive,Automatic
+2019,Standard Pickup Trucks,17,8.0,5.7,4-Wheel Drive,Automatic
+2019,Standard Pickup Trucks,17,8.0,5.7,Rear-Wheel Drive,Automatic
 2019,Compact Cars,29,4.0,1.6,Front-Wheel Drive,Manual
 2019,Compact Cars,30,4.0,1.6,Front-Wheel Drive,Automatic
 2019,Compact Cars,28,4.0,2.0,Front-Wheel Drive,Manual
@@ -33645,13 +33737,16 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2019,Sport Utility Vehicle,21,6.0,3.6,Rear-Wheel Drive,Automatic
 2019,Sport Utility Vehicle,15,8.0,5.7,4-Wheel Drive,Automatic
 2019,Compact Cars,26,4.0,2.0,4-Wheel Drive,Automatic
+2019,Sport Utility Vehicle,17,8.0,5.7,Rear-Wheel Drive,Automatic
 2019,Sport Utility Vehicle,21,6.0,3.6,Rear-Wheel Drive,Automatic
 2019,Sport Utility Vehicle,21,6.0,3.6,4-Wheel Drive,Automatic
 2019,Sport Utility Vehicle,15,8.0,5.7,4-Wheel Drive,Automatic
 2019,Sport Utility Vehicle,15,8.0,5.7,Rear-Wheel Drive,Automatic
+2019,Sport Utility Vehicle,17,8.0,5.7,4-Wheel Drive,Automatic
 2019,Sport Utility Vehicle,18,6.0,4.0,Rear-Wheel Drive,Automatic
 2019,Sport Utility Vehicle,22,6.0,3.5,4-Wheel Drive,Automatic
 2019,Sport Utility Vehicle,21,6.0,3.6,4-Wheel Drive,Automatic
+2019,Sport Utility Vehicle,17,8.0,5.7,4-Wheel Drive,Automatic
 2019,Sport Utility Vehicle,18,6.0,4.0,4-Wheel Drive,Automatic
 2019,Compact Cars,34,4.0,1.6,Front-Wheel Drive,Automatic
 2019,Sport Utility Vehicle,24,4.0,2.0,4-Wheel Drive,Automatic
@@ -33685,6 +33780,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2019,Midsize Cars,18,8.0,6.4,Rear-Wheel Drive,Automatic
 2019,Midsize Cars,18,8.0,5.7,Rear-Wheel Drive,Manual
 2019,Subcompact Cars,22,6.0,3.0,4-Wheel Drive,Automatic
+2019,Midsize Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
 2019,Midsize Cars,23,6.0,3.6,Rear-Wheel Drive,Automatic
 2019,Subcompact Cars,23,6.0,3.0,Rear-Wheel Drive,Automatic
 2019,Subcompact Cars,22,6.0,3.0,4-Wheel Drive,Automatic
@@ -33707,10 +33803,12 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2019,Large Cars,18,8.0,6.4,Rear-Wheel Drive,Automatic
 2019,Sport Utility Vehicle,16,8.0,5.0,4-Wheel Drive,Automatic
 2019,Sport Utility Vehicle,15,8.0,5.0,4-Wheel Drive,Automatic
+2019,Large Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
 2019,Large Cars,23,6.0,3.6,Rear-Wheel Drive,Automatic
 2019,Large Cars,21,6.0,3.6,4-Wheel Drive,Automatic
 2019,Sport Utility Vehicle,19,8.0,5.0,4-Wheel Drive,Automatic
 2019,Midsize Cars,31,4.0,2.0,Front-Wheel Drive,Manual
+2019,Large Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
 2019,Sport Utility Vehicle,16,8.0,4.6,4-Wheel Drive,Automatic
 2019,Large Cars,23,6.0,3.6,Rear-Wheel Drive,Automatic
 2019,Midsize Cars,34,4.0,2.5,Front-Wheel Drive,Automatic
@@ -33864,6 +33962,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2019,Small Pickup Trucks,22,4.0,2.5,Rear-Wheel Drive,Automatic
 2019,Midsize Cars,32,4.0,2.0,Front-Wheel Drive,Automatic
 2019,Sport Utility Vehicle,27,4.0,1.4,Front-Wheel Drive,Automatic
+2019,Standard Pickup Trucks,17,8.0,5.7,4-Wheel Drive,Automatic
 2019,Midsize Cars,33,4.0,2.0,Front-Wheel Drive,Automatic
 2019,Sport Utility Vehicle,28,4.0,1.4,Front-Wheel Drive,Automatic
 2019,Small Pickup Trucks,22,4.0,2.5,Rear-Wheel Drive,Manual
@@ -33871,6 +33970,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2019,Midsize-Large Station Wagons,14,12.0,6.7,4-Wheel Drive,Automatic
 2019,Small Pickup Trucks,22,4.0,2.5,Rear-Wheel Drive,Automatic
 2019,Small Pickup Trucks,21,6.0,3.5,Rear-Wheel Drive,Automatic
+2019,Standard Pickup Trucks,17,8.0,5.7,Rear-Wheel Drive,Automatic
 2019,Sport Utility Vehicle,29,4.0,2.5,4-Wheel Drive,Automatic
 2019,Minicompact Cars,21,6.0,3.8,4-Wheel Drive,Automatic
 2019,Two Seaters,11,12.0,6.5,4-Wheel Drive,Automatic
@@ -34054,10 +34154,12 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2020,Compact Cars,30,4.0,1.5,Front-Wheel Drive,Manual
 2020,Large Cars,22,6.0,3.0,4-Wheel Drive,Automatic
 2020,Large Cars,22,6.0,3.0,Rear-Wheel Drive,Automatic
+2020,Sport Utility Vehicle,17,8.0,5.7,4-Wheel Drive,Automatic
 2020,Sport Utility Vehicle,25,4.0,2.4,4-Wheel Drive,Automatic
 2020,Sport Utility Vehicle,21,6.0,3.6,4-Wheel Drive,Automatic
 2020,Sport Utility Vehicle,25,4.0,2.4,4-Wheel Drive,Manual
 2020,Sport Utility Vehicle,24,4.0,2.0,4-Wheel Drive,Automatic
+2020,Sport Utility Vehicle,17,8.0,5.7,4-Wheel Drive,Automatic
 2020,Sport Utility Vehicle,21,6.0,3.6,4-Wheel Drive,Automatic
 2020,Sport Utility Vehicle,17,8.0,4.4,4-Wheel Drive,Automatic
 2020,Sport Utility Vehicle,17,8.0,4.4,4-Wheel Drive,Automatic
@@ -34082,6 +34184,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2020,Two Seaters,16,8.0,3.9,Rear-Wheel Drive,Automatic
 2020,Sport Utility Vehicle,23,6.0,3.0,4-Wheel Drive,Automatic
 2020,Sport Utility Vehicle,25,4.0,2.0,4-Wheel Drive,Automatic
+2020,Sport Utility Vehicle,17,8.0,5.7,Rear-Wheel Drive,Automatic
 2020,Sport Utility Vehicle,20,6.0,3.6,4-Wheel Drive,Automatic
 2020,Sport Utility Vehicle,17,6.0,3.0,4-Wheel Drive,Automatic
 2020,Sport Utility Vehicle,17,6.0,3.0,4-Wheel Drive,Automatic
@@ -34342,6 +34445,8 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2020,Subcompact Cars,20,8.0,6.2,Rear-Wheel Drive,Automatic
 2020,Midsize Cars,22,6.0,3.6,4-Wheel Drive,Automatic
 2020,Small Station Wagons,25,4.0,1.4,Front-Wheel Drive,Automatic
+2020,Standard Pickup Trucks,17,8.0,5.7,Rear-Wheel Drive,Automatic
+2020,Standard Pickup Trucks,17,8.0,5.7,4-Wheel Drive,Automatic
 2020,Sport Utility Vehicle,23,6.0,3.5,Front-Wheel Drive,Automatic
 2020,Sport Utility Vehicle,26,4.0,2.0,Front-Wheel Drive,Automatic
 2020,Sport Utility Vehicle,25,4.0,2.4,Front-Wheel Drive,Automatic
@@ -34483,8 +34588,10 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2020,Sport Utility Vehicle,23,6.0,3.5,Front-Wheel Drive,Automatic
 2020,Sport Utility Vehicle,28,3.0,1.3,4-Wheel Drive,Automatic
 2020,Sport Utility Vehicle,31,3.0,1.3,Front-Wheel Drive,Automatic
+2020,Standard Pickup Trucks,17,8.0,5.7,4-Wheel Drive,Automatic
 2020,Standard Pickup Trucks,19,6.0,3.6,4-Wheel Drive,Automatic
 2020,Standard Pickup Trucks,21,6.0,3.5,4-Wheel Drive,Automatic
+2020,Standard Pickup Trucks,17,8.0,5.7,Rear-Wheel Drive,Automatic
 2020,Standard Pickup Trucks,20,6.0,3.6,Rear-Wheel Drive,Automatic
 2020,Small Pickup Trucks,22,6.0,3.5,Front-Wheel Drive,Automatic
 2020,Small Station Wagons,31,4.0,1.5,Front-Wheel Drive,Manual
@@ -34492,8 +34599,11 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2020,Small Station Wagons,36,4.0,1.5,Front-Wheel Drive,Automatic
 2020,Large Cars,21,6.0,3.6,4-Wheel Drive,Automatic
 2020,Large Cars,16,12.0,6.0,Rear-Wheel Drive,Automatic
+2020,Large Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
+2020,Large Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
 2020,Midsize Cars,33,4.0,1.6,Front-Wheel Drive,Automatic
 2020,Midsize Cars,18,8.0,5.7,Rear-Wheel Drive,Manual
+2020,Midsize Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
 2020,Subcompact Cars,14,8.0,5.0,Rear-Wheel Drive,Automatic
 2020,Two Seaters,27,4.0,2.0,Rear-Wheel Drive,Automatic
 2020,Two Seaters,14,6.0,3.5,Rear-Wheel Drive,Automatic
@@ -34904,6 +35014,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2021,Sport Utility Vehicle,25,4.0,2.0,Rear-Wheel Drive,Automatic
 2021,Minivan,22,6.0,3.6,Front-Wheel Drive,Automatic
 2021,Large Cars,33,4.0,1.5,Front-Wheel Drive,Automatic
+2021,Large Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
 2021,Large Cars,26,4.0,2.0,Front-Wheel Drive,Automatic
 2021,Midsize Cars,31,4.0,2.5,Front-Wheel Drive,Automatic
 2021,Sport Utility Vehicle,17,8.0,4.0,4-Wheel Drive,Automatic
@@ -34939,9 +35050,11 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2021,Sport Utility Vehicle,25,4.0,2.4,Front-Wheel Drive,Automatic
 2021,Two Seaters,10,16.0,8.0,4-Wheel Drive,Automatic
 2021,Sport Utility Vehicle,27,4.0,2.0,Front-Wheel Drive,Automatic
+2021,Standard Pickup Trucks,17,8.0,5.7,4-Wheel Drive,Automatic
 2021,Standard Pickup Trucks,19,6.0,3.6,4-Wheel Drive,Automatic
 2021,Standard Pickup Trucks,21,6.0,2.7,4-Wheel Drive,Automatic
 2021,Standard Pickup Trucks,20,6.0,3.5,4-Wheel Drive,Automatic
+2021,Standard Pickup Trucks,17,8.0,5.7,Rear-Wheel Drive,Automatic
 2021,Standard Pickup Trucks,20,6.0,3.6,Rear-Wheel Drive,Automatic
 2021,Sport Utility Vehicle,30,4.0,1.5,Front-Wheel Drive,Automatic
 2021,Standard Pickup Trucks,22,6.0,2.7,Rear-Wheel Drive,Automatic
@@ -34966,6 +35079,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2021,Standard Pickup Trucks,20,6.0,3.5,Rear-Wheel Drive,Automatic
 2021,Large Cars,18,8.0,6.4,Rear-Wheel Drive,Automatic
 2021,Midsize Cars,18,8.0,5.7,Rear-Wheel Drive,Manual
+2021,Midsize Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
 2021,Midsize Cars,23,6.0,3.6,Rear-Wheel Drive,Automatic
 2021,Compact Cars,30,4.0,1.6,Front-Wheel Drive,Manual
 2021,Compact Cars,35,4.0,1.6,Front-Wheel Drive,Automatic
@@ -34987,6 +35101,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2021,Large Cars,18,8.0,6.4,Rear-Wheel Drive,Automatic
 2021,Large Cars,23,6.0,3.6,Rear-Wheel Drive,Automatic
 2021,Large Cars,21,6.0,3.6,4-Wheel Drive,Automatic
+2021,Large Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
 2021,Midsize Cars,16,8.0,6.2,Rear-Wheel Drive,Automatic
 2021,Large Cars,23,6.0,3.6,Rear-Wheel Drive,Automatic
 2021,Midsize Cars,26,4.0,2.5,4-Wheel Drive,Automatic
@@ -35061,6 +35176,8 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2021,Sport Utility Vehicle,25,4.0,2.0,Front-Wheel Drive,Automatic
 2021,Sport Utility Vehicle,24,4.0,2.0,4-Wheel Drive,Automatic
 2021,Sport Utility Vehicle,24,4.0,2.3,4-Wheel Drive,Automatic
+2021,Sport Utility Vehicle,17,8.0,5.7,Rear-Wheel Drive,Automatic
+2021,Sport Utility Vehicle,17,8.0,5.7,4-Wheel Drive,Automatic
 2021,Two Seaters,17,10.0,5.2,Rear-Wheel Drive,Automatic
 2021,Two Seaters,17,10.0,5.2,Rear-Wheel Drive,Automatic
 2021,Two Seaters,26,4.0,2.0,4-Wheel Drive,Automatic
@@ -35140,6 +35257,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2021,Standard Pickup Trucks,16,8.0,5.3,4-Wheel Drive,Automatic
 2021,Compact Cars,21,6.0,3.0,4-Wheel Drive,Automatic
 2021,Compact Cars,21,6.0,3.0,4-Wheel Drive,Automatic
+2021,Sport Utility Vehicle,17,8.0,5.7,4-Wheel Drive,Automatic
 2021,Sport Utility Vehicle,21,4.0,2.3,4-Wheel Drive,Automatic
 2021,Standard Pickup Trucks,20,4.0,2.7,4-Wheel Drive,Automatic
 2021,Sport Utility Vehicle,21,6.0,3.6,4-Wheel Drive,Automatic
@@ -35689,6 +35807,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2021,Sport Utility Vehicle,21,6.0,3.6,Rear-Wheel Drive,Automatic
 2021,Sport Utility Vehicle,21,6.0,3.6,4-Wheel Drive,Automatic
 2021,Sport Utility Vehicle,21,6.0,3.6,4-Wheel Drive,Automatic
+2021,Sport Utility Vehicle,17,8.0,5.7,4-Wheel Drive,Automatic
 2021,Compact Cars,28,4.0,2.5,4-Wheel Drive,Automatic
 2021,Minicompact Cars,15,12.0,6.0,4-Wheel Drive,Automatic
 2021,Compact Cars,26,4.0,2.0,4-Wheel Drive,Automatic
@@ -35810,6 +35929,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2021,Compact Cars,29,4.0,2.0,Front-Wheel Drive,Automatic
 2021,Midsize Cars,23,6.0,3.0,4-Wheel Drive,Automatic
 2021,Midsize Cars,25,6.0,3.0,Rear-Wheel Drive,Automatic
+2021,Standard Pickup Trucks,17,8.0,5.7,Rear-Wheel Drive,Automatic
 2021,Standard Pickup Trucks,15,8.0,5.7,Rear-Wheel Drive,Automatic
 2021,Two Seaters,28,4.0,2.0,Rear-Wheel Drive,Automatic
 2021,Standard Pickup Trucks,19,6.0,3.6,4-Wheel Drive,Manual
@@ -35826,6 +35946,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2021,Sport Utility Vehicle,14,8.0,5.7,4-Wheel Drive,Automatic
 2021,Sport Utility Vehicle,14,8.0,5.7,4-Wheel Drive,Automatic
 2021,Subcompact Cars,29,4.0,2.0,Rear-Wheel Drive,Automatic
+2021,Standard Pickup Trucks,17,8.0,5.7,4-Wheel Drive,Automatic
 2021,Midsize Cars,28,4.0,2.5,4-Wheel Drive,Automatic
 2021,Two Seaters,28,4.0,2.0,Rear-Wheel Drive,Automatic
 2021,Sport Utility Vehicle,17,6.0,4.0,4-Wheel Drive,Automatic
@@ -35895,6 +36016,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2022,Sport Utility Vehicle,14,8.0,6.4,4-Wheel Drive,Automatic
 2022,Large Cars,20,6.0,3.5,4-Wheel Drive,Automatic
 2022,Sport Utility Vehicle,21,6.0,3.0,4-Wheel Drive,Automatic
+2022,Sport Utility Vehicle,17,8.0,5.7,4-Wheel Drive,Automatic
 2022,Two Seaters,20,6.0,4.0,Rear-Wheel Drive,Automatic
 2022,Two Seaters,20,8.0,4.0,Rear-Wheel Drive,Automatic
 2022,Minicompact Cars,17,12.0,5.2,Rear-Wheel Drive,Automatic
@@ -36020,7 +36142,9 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2022,Compact Cars,25,4.0,2.0,Rear-Wheel Drive,Automatic
 2022,Large Cars,26,4.0,2.0,4-Wheel Drive,Automatic
 2022,Standard Pickup Trucks,20,6.0,3.6,Rear-Wheel Drive,Automatic
+2022,Standard Pickup Trucks,17,8.0,5.7,Rear-Wheel Drive,Automatic
 2022,Standard Pickup Trucks,19,6.0,3.6,4-Wheel Drive,Automatic
+2022,Standard Pickup Trucks,17,8.0,5.7,4-Wheel Drive,Automatic
 2022,Sport Utility Vehicle,24,4.0,2.0,Front-Wheel Drive,Automatic
 2022,Sport Utility Vehicle,24,4.0,2.0,Front-Wheel Drive,Automatic
 2022,Sport Utility Vehicle,23,4.0,2.0,4-Wheel Drive,Automatic
@@ -36032,6 +36156,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2022,Sport Utility Vehicle,19,6.0,2.9,4-Wheel Drive,Automatic
 2022,Sport Utility Vehicle,21,6.0,3.6,Rear-Wheel Drive,Automatic
 2022,Sport Utility Vehicle,21,6.0,3.6,4-Wheel Drive,Automatic
+2022,Sport Utility Vehicle,17,8.0,5.7,4-Wheel Drive,Automatic
 2022,Compact Cars,22,6.0,3.5,4-Wheel Drive,Automatic
 2022,Sport Utility Vehicle,21,6.0,3.6,4-Wheel Drive,Automatic
 2022,Compact Cars,28,4.0,2.0,Rear-Wheel Drive,Automatic
@@ -36209,8 +36334,10 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2022,Small Pickup Trucks,19,6.0,3.6,4-Wheel Drive,Automatic
 2022,Sport Utility Vehicle,17,6.0,4.0,4-Wheel Drive,Automatic
 2022,Sport Utility Vehicle,16,8.0,4.6,4-Wheel Drive,Automatic
+2022,Standard Pickup Trucks,17,8.0,5.7,Rear-Wheel Drive,Automatic
 2022,Sport Utility Vehicle,17,6.0,4.0,Rear-Wheel Drive,Automatic
 2022,Sport Utility Vehicle,22,6.0,3.5,4-Wheel Drive,Automatic
+2022,Standard Pickup Trucks,17,8.0,5.7,4-Wheel Drive,Automatic
 2022,Sport Utility Vehicle,29,4.0,1.5,4-Wheel Drive,Automatic
 2022,Standard Pickup Trucks,12,8.0,6.2,4-Wheel Drive,Automatic
 2022,Sport Utility Vehicle,30,4.0,1.5,Front-Wheel Drive,Automatic
@@ -36224,10 +36351,12 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2022,Midsize Cars,16,8.0,6.2,Rear-Wheel Drive,Manual
 2022,Midsize Cars,21,6.0,3.6,4-Wheel Drive,Automatic
 2022,Large Cars,23,6.0,3.6,Rear-Wheel Drive,Automatic
+2022,Large Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
 2022,Large Cars,21,6.0,3.6,4-Wheel Drive,Automatic
 2022,Two Seaters,24,4.0,2.0,Rear-Wheel Drive,Automatic
 2022,Sport Utility Vehicle,17,6.0,3.0,4-Wheel Drive,Automatic
 2022,Large Cars,23,6.0,3.6,Rear-Wheel Drive,Automatic
+2022,Large Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
 2022,Large Cars,18,8.0,6.4,Rear-Wheel Drive,Automatic
 2022,Large Cars,15,8.0,6.2,Rear-Wheel Drive,Automatic
 2022,Sport Utility Vehicle,17,6.0,3.0,4-Wheel Drive,Automatic
@@ -36270,9 +36399,11 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2022,Two Seaters,14,6.0,3.5,Rear-Wheel Drive,Automatic
 2022,Compact Cars,23,4.0,2.0,4-Wheel Drive,Automatic
 2022,Midsize Cars,23,6.0,3.6,Rear-Wheel Drive,Automatic
+2022,Midsize Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
 2022,Midsize Cars,18,8.0,6.4,Rear-Wheel Drive,Automatic
 2022,Subcompact Cars,25,4.0,2.3,Rear-Wheel Drive,Automatic
 2022,Sport Utility Vehicle,22,6.0,3.2,4-Wheel Drive,Automatic
+2022,Sport Utility Vehicle,17,8.0,5.7,Rear-Wheel Drive,Automatic
 2022,Sport Utility Vehicle,19,6.0,3.5,Rear-Wheel Drive,Automatic
 2022,Sport Utility Vehicle,18,6.0,3.5,4-Wheel Drive,Automatic
 2022,Sport Utility Vehicle,18,6.0,3.5,4-Wheel Drive,Automatic
@@ -36683,6 +36814,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2022,Sport Utility Vehicle,23,4.0,2.4,4-Wheel Drive,Automatic
 2022,Sport Utility Vehicle,22,4.0,2.0,4-Wheel Drive,Automatic
 2022,Sport Utility Vehicle,22,4.0,2.0,4-Wheel Drive,Automatic
+2022,Sport Utility Vehicle,17,8.0,5.7,4-Wheel Drive,Automatic
 2022,Sport Utility Vehicle,19,6.0,3.0,4-Wheel Drive,Automatic
 2022,Sport Utility Vehicle,26,4.0,2.0,4-Wheel Drive,Automatic
 2022,Sport Utility Vehicle,18,6.0,2.9,4-Wheel Drive,Automatic
@@ -36870,7 +37002,9 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2023,Two Seaters,26,6.0,3.0,Rear-Wheel Drive,Automatic
 2023,Sport Utility Vehicle,16,8.0,6.2,4-Wheel Drive,Automatic
 2023,Minicompact Cars,22,4.0,2.4,Rear-Wheel Drive,Manual
+2023,Sport Utility Vehicle,17,8.0,5.7,4-Wheel Drive,Automatic
 2023,Sport Utility Vehicle,21,6.0,3.6,4-Wheel Drive,Automatic
+2023,Sport Utility Vehicle,17,8.0,5.7,4-Wheel Drive,Automatic
 2023,Compact Cars,28,4.0,2.0,Rear-Wheel Drive,Automatic
 2023,Sport Utility Vehicle,13,8.0,6.2,4-Wheel Drive,Automatic
 2023,Sport Utility Vehicle,15,8.0,4.4,4-Wheel Drive,Automatic
@@ -37189,6 +37323,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2023,Midsize Cars,17,8.0,6.4,Rear-Wheel Drive,Manual
 2023,Midsize Cars,18,8.0,6.4,Rear-Wheel Drive,Automatic
 2023,Midsize Cars,18,8.0,5.7,Rear-Wheel Drive,Manual
+2023,Midsize Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
 2023,Midsize Cars,23,6.0,3.6,Rear-Wheel Drive,Automatic
 2023,Compact Cars,24,4.0,2.0,4-Wheel Drive,Automatic
 2023,Sport Utility Vehicle,14,8.0,4.0,4-Wheel Drive,Automatic
@@ -37280,6 +37415,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2023,Compact Cars,21,6.0,3.0,4-Wheel Drive,Automatic
 2023,Compact Cars,21,6.0,3.0,4-Wheel Drive,Automatic
 2023,Subcompact Cars,21,6.0,3.0,4-Wheel Drive,Automatic
+2023,Large Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
 2023,Large Cars,18,8.0,6.4,Rear-Wheel Drive,Automatic
 2023,Large Cars,23,6.0,3.6,Rear-Wheel Drive,Automatic
 2023,Sport Utility Vehicle,15,8.0,5.6,4-Wheel Drive,Automatic
@@ -37329,6 +37465,8 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2023,Small Pickup Trucks,19,4.0,2.7,4-Wheel Drive,Automatic
 2023,Small Pickup Trucks,19,4.0,2.7,4-Wheel Drive,Automatic
 2023,Small Pickup Trucks,18,4.0,2.7,4-Wheel Drive,Automatic
+2023,Standard Pickup Trucks,17,8.0,5.7,Rear-Wheel Drive,Automatic
+2023,Standard Pickup Trucks,17,8.0,5.7,4-Wheel Drive,Automatic
 2023,Small Pickup Trucks,20,4.0,2.7,Rear-Wheel Drive,Automatic
 2023,Sport Utility Vehicle,27,4.0,2.0,4-Wheel Drive,Automatic
 2023,Large Cars,33,4.0,2.0,Front-Wheel Drive,Automatic
@@ -37368,6 +37506,7 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2023,Compact Cars,17,8.0,4.0,4-Wheel Drive,Automatic
 2023,Sport Utility Vehicle,30,4.0,2.0,4-Wheel Drive,Automatic
 2023,Sport Utility Vehicle,22,4.0,2.0,4-Wheel Drive,Automatic
+2023,Large Cars,19,8.0,5.7,Rear-Wheel Drive,Automatic
 2023,Large Cars,18,8.0,6.4,Rear-Wheel Drive,Automatic
 2023,Large Cars,15,8.0,6.2,Rear-Wheel Drive,Automatic
 2023,Large Cars,21,6.0,3.6,4-Wheel Drive,Automatic
@@ -37375,7 +37514,9 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2023,Small Station Wagons,25,4.0,2.0,4-Wheel Drive,Automatic
 2023,Subcompact Cars,23,4.0,2.3,Rear-Wheel Drive,Automatic
 2023,Midsize-Large Station Wagons,23,4.0,2.0,4-Wheel Drive,Automatic
+2023,Standard Pickup Trucks,17,8.0,5.7,Rear-Wheel Drive,Automatic
 2023,Standard Pickup Trucks,19,6.0,3.6,4-Wheel Drive,Automatic
+2023,Standard Pickup Trucks,17,8.0,5.7,4-Wheel Drive,Automatic
 2023,Minivan,20,6.0,3.6,4-Wheel Drive,Automatic
 2023,Sport Utility Vehicle,32,4.0,2.0,Front-Wheel Drive,Automatic
 2023,Sport Utility Vehicle,24,4.0,2.4,4-Wheel Drive,Automatic
@@ -37651,7 +37792,9 @@ year,vehicle_class,MPG(comb),cylinders,displ (L),drive,trany
 2023,Standard Pickup Trucks,19,6.0,3.8,4-Wheel Drive,Automatic
 2023,Standard Pickup Trucks,19,6.0,3.8,4-Wheel Drive,Automatic
 2023,Small Pickup Trucks,20,6.0,3.5,4-Wheel Drive,Automatic
+2023,Sport Utility Vehicle,17,8.0,5.7,Rear-Wheel Drive,Automatic
 2023,Sport Utility Vehicle,26,4.0,2.5,4-Wheel Drive,Automatic
+2023,Sport Utility Vehicle,17,8.0,5.7,4-Wheel Drive,Automatic
 2023,Two Seaters,21,4.0,2.5,Rear-Wheel Drive,Manual
 2023,Two Seaters,22,4.0,2.5,Rear-Wheel Drive,Automatic
 2023,Two Seaters,21,4.0,2.5,Rear-Wheel Drive,Manual
