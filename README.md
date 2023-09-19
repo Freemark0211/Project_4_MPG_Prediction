@@ -28,21 +28,21 @@ This project is to model and predict MPG (miles per gallon) using know vehicle s
 	- through years 2000 to 2023
 
 ### Process:
-	- After initial inspection all vehicles not powered by gasoline were removed and rows reduced
-	  to the seven for modeling and visualization purposes
+- After initial inspection all vehicles not powered by gasoline were removed and rows reduced
+  to the seven for modeling and visualization purposes
 
-	- using feedback from initial visualization and modeling:
-		- hybrid vehicles were removed:
-			- it was decided combination electric/gas drivetrain did not fit with our
-			   modeling
-		- two-cylinder vehicles were removed:
-			- These were primarily rotary engine vehicles and not actually 'cylinders'
-		- special puropse vehicle classes were removed
-			- encompassed all vehicle classes so did not work for modeling purooses
-		- years covered were reduced to 2000 to 2023
-			- the earlier years had many more outliers; possibly due to electronic
-			  fuel and engine processing that became nearly standard in the late 1990s
-			  so it was decided to elimnate pre-2000 vehicles from the model
+- using feedback from initial visualization and modeling:
+	- hybrid vehicles were removed:
+		- it was decided combination electric/gas drivetrain did not fit with our
+		  modeling
+	- two-cylinder vehicles were removed:
+		- These were primarily rotary engine vehicles and not actually 'cylinders'
+	- special puropse vehicle classes were removed
+		- encompassed all vehicle classes so did not work for modeling purooses
+	- years covered were reduced to 2000 to 2023
+		- the earlier years had many more outliers; possibly due to electronic
+		  fuel and engine processing that became nearly standard in the late 1990s
+		  so it was decided to elimnate pre-2000 vehicles from the model
 
 
 ## Visualization
